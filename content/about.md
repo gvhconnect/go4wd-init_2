@@ -2,8 +2,8 @@
 _schema: default
 title: About
 hero:
-  title: Our Company
-  background_image: /images/bg/home-1+.png
+  title: 'biz: the new frontier'
+  background_image: /images/bg/pacific_blue_field.png
 content_blocks:
   - _bookshop_name: start
     preheading: What we are
