@@ -34,14 +34,16 @@ content_blocks:
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit,
           ducimus.
   - _bookshop_name: about
-    preheading: What we are
-    heading: We are an experienced team of creative business innovators
+    preheading: How We Work
+    heading: >-
+      We listen to Clients, their competitors, and their customers, and work
+      collaboratively to define significant goals.
     subheading: We know the power of Competitive Advantage
     content: >-
-      We provide consulting services in the area of IFRS and management
-      reporting, helping companies to reach their highest level. We optimize
-      business processes, making them easier.
-    background_image: /images/about/home-8.jpg
+      We provide consulting services in strategy, marketing, product
+      development, reporting, helping companies to reach their highest level. We
+      optimize business processes, making them easier.
+    background_image: /images/bg/home-1+.png
     link:
       text: Get started
       url: '#'
