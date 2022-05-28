@@ -2,17 +2,17 @@ menu:
   - name: "Home"
     url: "/"
     open_in_new_tab: false
-  - name: "About"
+  - name: "Biz"
     url: "/about/"
     open_in_new_tab: false
-  - name: "Services"
+  - name: "Sports"
     url: "/services/"
+    open_in_new_tab: false
+  - name: "Tech"
+    url: "/pricing/"
     open_in_new_tab: false
   - name: "Portfolio"
     url: "/portfolio/"
-    open_in_new_tab: false
-  - name: "Pricing"
-    url: "/pricing/"
     open_in_new_tab: false
   - name: "Blog"
     url: "/blog/"
