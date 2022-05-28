@@ -1,7 +1,8 @@
 ---
 _schema: default
+title: Page Name
 hero:
-  title: 'biz: mainspring and movement'
+  title: 'biz: the engine'
   background_image: /images/bg/pacific_blue_field.png
 content_blocks:
   - _bookshop_name: start
