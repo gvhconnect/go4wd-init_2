@@ -2,7 +2,7 @@
 _schema: default
 title: Our Services
 hero:
-  title: What We do
+  title: 'sports: the bleeding edge'
   background_image: /uploads/lime-gr-field.png
 content_blocks:
   - _bookshop_name: services
