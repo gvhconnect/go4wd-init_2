@@ -2,7 +2,7 @@
 _schema: default
 title: About
 hero:
-  title: 'biz: the new frontier'
+  title: 'biz: mainspring and movement'
   background_image: /images/bg/pacific_blue_field.png
 content_blocks:
   - _bookshop_name: start
