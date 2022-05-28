@@ -1,7 +1,7 @@
 ---
 title: "Our blog"
 hero:
-  title: "Blog Articles"
-  background_image: "/images/bg/home-2.jpg"
+  title: "articles"
+  background_image: "/images/bg/ocra_yellow_field.png"
 url: /blog/
 ---
