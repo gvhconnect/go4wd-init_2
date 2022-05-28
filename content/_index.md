@@ -6,9 +6,9 @@ hero:
   background_image: /images/bg/home-2+.png
 content_blocks:
   - _bookshop_name: big-hero
-    preheading: Prepare for new future
-    heading: Our work is the best <br>expression of our <br>values + capabilities.
-    background_image: /images/bg/home-2+.png
+    preheading: Living in Changing Times
+    heading: Better business results require more than good intentions...
+    background_image: /images/bg/Landing-Page_7(ii).png
     link:
       text: Get started
       url: '#'
