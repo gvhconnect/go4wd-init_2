@@ -1,6 +1,5 @@
 ---
 _schema: default
-title: About
 hero:
   title: 'biz: mainspring and movement'
   background_image: /images/bg/pacific_blue_field.png
