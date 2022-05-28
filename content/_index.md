@@ -13,9 +13,9 @@ content_blocks:
       text: Get started
       url: '#'
   - _bookshop_name: intro
-    preheading: We are creative & expert people
+    preheading: Experienced and Seasoned Professionals
     heading: >-
-      We work with clients to solve problems, lever opportunities, and create
+      Experience and know how are required to create, deliver and sustain core
       business advantage.
     sections:
       - title: Define Performance Metrics
