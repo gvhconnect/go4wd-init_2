@@ -1,9 +1,9 @@
 ---
 _schema: default
-date: 2022-05-30T00:00:00Z
+date: 2022-05-30T23:22:00Z
 title: meeting
 categories:
-image_path: /images/fav.png
+image_path: /images/logo.png
 author:
 ---
 
