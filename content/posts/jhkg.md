@@ -7,10 +7,3 @@ image_path: /images/logo.png
 author:
 ---
 
-{{range .Site.Data&gt;meeting.json}}
-
-{{ .title}}
-
-{{end}}
-
-Enter your content here
