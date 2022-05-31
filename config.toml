@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://go4wd.consulting/'
 languageCode = 'en-us'
 title = "go4wd.consulting"
 Paginate = 20
