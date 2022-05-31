@@ -14,7 +14,8 @@
 		"StartDT": "2022 - 05 - 30 13: 00: 00 ",
 		"EndDT": "2022 - 05 - 30 13: 30: 00 ",
 		"Location": "Teams"
-	},{
+	},
+	{
 		"MeetingID": 284,
 		"Title": "The Ritz dinner",
 		"Memo": "note to self 3",
