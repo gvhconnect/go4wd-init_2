@@ -7,3 +7,4 @@ image_path: /images/logo.png
 author:
 ---
 
+{{< meetings >}}
