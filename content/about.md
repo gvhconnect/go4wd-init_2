@@ -15,7 +15,7 @@ content_blocks:
       streamline business processes, improve their scalability and reach, as
       well as identifying strategic changes that can significantly increase the
       potential performance of the business into the future.
-    image_path: /uploads/business-clockwork.png
+    image_path: /uploads/business-clockwork-450px.png
     button:
       text: Get started
       url: /contact/
