@@ -11,14 +11,14 @@ content_blocks:
     text: >-
       Operations, Marketing and Development are all core - they must mesh,
       enable and drive business growth along with improvements in productivity
-      and profitability.                                                      
-      The most significant changes to business in the past 25 years have to do
-      with the application of technology to create massive scale effects that
-      radically change the cost base of growth.                  We work with
-      clients to clarify what their businesses are today and where they need to
-      be tomorrow, look for ways to streamline business processes, improve
-      scalability and reach, as well as to create sustainable differentiation
-      that can drive performance of the business into the future.
+      and profitability.          The most significant changes to business in
+      the past 25 years have to do with the application of technology to create
+      massive scale effects that radically change the cost base of
+      growth.                    We work with clients to clarify what their
+      businesses are today and where they need to be tomorrow, look for ways to
+      streamline business processes, improve scalability and reach, as well as
+      to create sustainable differentiation that can drive performance of the
+      business into the future.
     image_path: /uploads/business-clockwork-450px.png
   - _bookshop_name: numbers
     sections:
