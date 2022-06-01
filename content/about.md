@@ -39,7 +39,7 @@ content_blocks:
     heading: Expert Team member to get best service
     people:
       - name: George Hughes
-        image: /uploads/gvh-tight-shot---rh-350x437px.png
+        image: /uploads/gvh-tight-shot---rh-350x437px-1.png
         role: Chief Cook & Bottle Washer
         facebook:
         twitter:
