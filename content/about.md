@@ -16,7 +16,7 @@ content_blocks:
       well as identifying strategic changes that can significantly increase the
       potential performance of the business into the future.ptimize business
       processes, making them easier.
-    image_path: /uploads/home-7.png
+    image_path: /uploads/business-clockwork-450px.png
   - _bookshop_name: numbers
     sections:
       - title: Our Mission
