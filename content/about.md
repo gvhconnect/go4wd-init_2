@@ -35,8 +35,8 @@ content_blocks:
           llum similique ducimus accusamus laudantium praesentium, impedit
           quaerat, itaque maxime sunt deleniti voluptas distinctio.
   - _bookshop_name: team
-    preheading: Our Team
-    heading: Expert Team member to get best service
+    preheading: Select Team
+    heading: Global Reach, Experience, and Availability
     people:
       - name: George Hughes
         image: /uploads/gvh-tight-shot---rh-350x437px-1.png
