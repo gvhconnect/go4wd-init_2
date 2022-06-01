@@ -31,7 +31,7 @@ content_blocks:
           New technologies change the cost base for customer relationships.
           Apple tripled its value by adding value in how content is being
           delivered, levering the phone’s value.
-      - title: Innovation & Leadership
+      - title: Innovation Leadership
         text: >-
           With the Cloud  and the affordable leverage it offers to businesses
           seeking to take advantage of AI, the opportunity for business
