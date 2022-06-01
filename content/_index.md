@@ -78,7 +78,7 @@ content_blocks:
       - title: Business Development
         icon: ti-bar-chart
         content: >-
-          The key to long term success is continuous differentiation and
+          The key to long term success is building differentiation in and
           engagement with the market.
       - title: Interface Design
         icon: ti-layers
