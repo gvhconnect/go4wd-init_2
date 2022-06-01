@@ -6,19 +6,13 @@ hero:
   background_image: /images/bg/pacific_blue_field.png
 content_blocks:
   - _bookshop_name: start
-    preheading: Taking Care of Business
-    heading: Survival and Prosperity are the first steps...
+    preheading: What we are
+    heading: We are a dynamic team of creative people
     text: >-
-      Operations, Marketing and Development are all core - they must mesh,
-      enable and drive business growth along with productivity and
-      profitability. We work with clients, typically looking for ways to
-      streamline business processes, improve their scalability and reach, as
-      well as identifying strategic changes that can significantly increase the
-      potential performance of the business into the future.
-    image_path: /uploads/business-clockwork-450px.png
-    button:
-      text: Get started
-      url: /contact/
+      We provide consulting services in the area of IFRS and management
+      reporting, helping companies to reach their highest level. We optimize
+      business processes, making them easier.
+    image_path: /uploads/home-7.png
   - _bookshop_name: numbers
     sections:
       - title: Our Mission
@@ -33,6 +27,24 @@ content_blocks:
         text: >-
           llum similique ducimus accusamus laudantium praesentium, impedit
           quaerat, itaque maxime sunt deleniti voluptas distinctio.
+  - _bookshop_name: counter_dark
+    numbers:
+      - icon: ti-check
+        number: 1730
+        suffix: +
+        text: Projects Done
+      - icon: ti-flag
+        number: 125
+        suffix: M
+        text: Users Worldwide
+      - icon: ti-layers
+        number: 39
+        suffix:
+        text: Available Countries
+      - icon: ti-medall
+        number: 14
+        suffix:
+        text: Awards Won
   - _bookshop_name: team
     preheading: Our Team
     heading: Expert Team member to get best service
@@ -54,27 +66,6 @@ content_blocks:
       - name: Henry Oswald
         image: /images/team/team-3.jpg
         role: Developer
-        facebook: themefisher
-        twitter: themefisher
-        instagram: themefisher
-        linkedin: themefisher
-      - name: David Williams
-        image: /images/team/team-4.jpg
-        role: Senior Marketer
-        facebook: themefisher
-        twitter: themefisher
-        instagram: themefisher
-        linkedin: themefisher
-      - name: Peter Odin
-        image: /images/team/team-5.jpg
-        role: App Developer
-        facebook: themefisher
-        twitter: themefisher
-        instagram: themefisher
-        linkedin: themefisher
-      - image: /images/team/team-6.jpg
-        name: David Spensor
-        role: Project Manager
         facebook: themefisher
         twitter: themefisher
         instagram: themefisher
