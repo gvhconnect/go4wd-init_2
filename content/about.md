@@ -14,10 +14,10 @@ content_blocks:
       and profitability.  The most significant changes to business in the past
       25 years have to do with the application of technology to create massive
       scale effects that radically change the cost base of growth. We work with
-      clients, clarifying what their business is in test changing markets,
-      typically looking for ways to streamline business processes, improve
-      scalability and reach, as well as create sustainable differentiation that
-      will increase performance of the business into the future.
+      clients, clarifying what their business is,  looking for ways to
+      streamline business processes, improving scalability and reach, as well as
+      creating sustainable differentiation that will increase performance of the
+      business into the future.
     image_path: /uploads/business-clockwork-450px.png
   - _bookshop_name: numbers
     sections:
