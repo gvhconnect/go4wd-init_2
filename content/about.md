@@ -33,24 +33,6 @@ content_blocks:
         text: >-
           llum similique ducimus accusamus laudantium praesentium, impedit
           quaerat, itaque maxime sunt deleniti voluptas distinctio.
-  - _bookshop_name: counter_dark
-    numbers:
-      - icon: ti-check
-        number: 1730
-        suffix: +
-        text: Projects Done
-      - icon: ti-flag
-        number: 125
-        suffix: M
-        text: Users Worldwide
-      - icon: ti-layers
-        number: 39
-        suffix:
-        text: Available Countries
-      - icon: ti-medall
-        number: 14
-        suffix:
-        text: Awards Won
   - _bookshop_name: team
     preheading: Our Team
     heading: Expert Team member to get best service
