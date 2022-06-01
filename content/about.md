@@ -52,12 +52,12 @@ content_blocks:
         twitter: themefisher
         instagram: themefisher
         linkedin: themefisher
-      - name: Henry Oswald
-        image: /images/team/team-3.jpg
-        role: Developer
-        facebook: themefisher
-        twitter: themefisher
-        instagram: themefisher
-        linkedin: themefisher
+      - name: Emma Hughes
+        image: /uploads/et-450px.png
+        role: Developer / UI Designer
+        facebook:
+        twitter:
+        instagram:
+        linkedin:
 ---
 
