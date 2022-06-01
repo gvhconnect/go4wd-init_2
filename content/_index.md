@@ -61,27 +61,17 @@ content_blocks:
       - number: 14
         suffix:
         text: Awards Won
-  - _bookshop_name: intro
-    preheading: Experienced and Seasoned Professionals
-    heading: >-
-      Experience and know how are required to create, deliver and sustain core
-      business advantage.
-    sections:
-      - title: Define Performance Metrics
-        icon: ti-desktop
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit,
-          ducimus.
-      - title: Develop Winning Solutions
-        icon: ti-medall
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit,
-          ducimus.
-      - title: Deliver Measurable Success
-        icon: ti-layers
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit,
-          ducimus.
+  - _bookshop_name: start
+    preheading: What we are
+    heading: We are a dynamic team of creative people
+    text: >-
+      We provide consulting services in the area of IFRS and management
+      reporting, helping companies to reach their highest level. We optimize
+      business processes, making them easier.
+    image_path: /uploads/home-7.png
+    button:
+      text: Get started
+      url: /contact/
   - _bookshop_name: services
     preheading: Our Services
     heading: We provide both creative and management services
