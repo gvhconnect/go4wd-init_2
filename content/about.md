@@ -13,9 +13,6 @@ content_blocks:
       reporting, helping companies to reach their highest level. We optimize
       business processes, making them easier.
     image_path: /uploads/home-7.png
-    button:
-      text: Get started
-      url: /contact/
   - _bookshop_name: numbers
     sections:
       - title: Our Mission
