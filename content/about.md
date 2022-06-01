@@ -31,10 +31,11 @@ content_blocks:
           New technologies change the cost base for customer relationships.
           Apple tripled its value by adding value in how content is being
           delivered, levering the phone’s value.
-      - title: Our Approach
+      - title: Innovation & Leadership
         text: >-
-          llum similique ducimus accusamus laudantium praesentium, impedit
-          quaerat, itaque maxime sunt deleniti voluptas distinctio.
+          With the Cloud  and the affordable leverage it offers to businesses
+          seeking to take advantage of AI, the opportunity for business
+          innovation has never been greater.
   - _bookshop_name: team
     preheading: Select Team
     heading: Global Reach, Experience, and Availability
