@@ -7,7 +7,7 @@ hero:
 content_blocks:
   - _bookshop_name: start
     preheading: Taking Care of Business
-    heading: Survival and Prosperity are not Optional.
+    heading: Survival and Prosperity are the first steps...
     text: >-
       Operations, Marketing and Development are all core - they must mesh,
       enable and drive business growth along with productivity and
