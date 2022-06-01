@@ -78,8 +78,8 @@ content_blocks:
       - title: Web & App development
         icon: ti-desktop
         content: >-
-          A digital agency isn't here to replace your internal team, we're here
-          to partner.
+          From Requirements Definition, through Rapid Prototyping and Testing,
+          we help clients improve outcomes.
       - title: Interface Design
         icon: ti-layers
         content: >-
