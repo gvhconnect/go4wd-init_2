@@ -23,11 +23,9 @@ content_blocks:
     sections:
       - title: Productivity
         text: >-
-          Most business is still analog, within a data format that has become
-          digital. There is often much room for gains Most business is still
-          analog, within a data framework that is now digital  at the backend.
-          There is often much room for gains in Productivity by moving processes
-          and behaviours to digital platforms. This is often low hanging fruit.
+          A lot of business is still analog. There is often room for gains in
+          Productivity by moving processes and behaviours to digital norms.
+          Powerpoint is an analog hangover. This is often low hanging fruit.
       - title: Vision
         text: >-
           llum similique ducimus accusamus laudantium praesentium, impedit
