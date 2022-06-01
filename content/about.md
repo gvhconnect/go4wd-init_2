@@ -15,13 +15,13 @@ content_blocks:
       business in the past and next 25 years have to do with the application of
       AI enabled technology to create massive scale effects that radically
       change the cost base of growth. The key to business survival and
-      prosperity lies in being able to navigate and connect to this landscape to
-      create sustainable differentiation that can drive performance and long
-      term differentiation.
+      prosperity lies in being able to navigate and connect to this landscape in
+      order to create sustainable differentiation that can drive performance and
+      long term competitive advantage.
     image_path: /uploads/business-clockwork-450px.png
   - _bookshop_name: numbers
     sections:
-      - title: Our Mission
+      - title: The Analog
         text: >-
           llum similique ducimus accusamus laudantium praesentium, impedit
           quaerat, itaque maxime sunt deleniti voluptas distinctio.
