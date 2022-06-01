@@ -6,13 +6,19 @@ hero:
   background_image: /images/bg/pacific_blue_field.png
 content_blocks:
   - _bookshop_name: start
-    preheading: What we are
-    heading: We are a dynamic team of creative people
+    preheading: Taking Care of Business
+    heading: Survival and Prosperity are not Optional.
     text: >-
-      We provide consulting services in the area of IFRS and management
-      reporting, helping companies to reach their highest level. We optimize
-      business processes, making them easier.
-    image_path: /uploads/home-7.png
+      Operations, Marketing and Development are all core - they must mesh,
+      enable and drive business growth along with productivity and
+      profitability. We work with clients, typically looking for ways to
+      streamline business processes, improve their scalability and reach, as
+      well as identifying strategic changes that can significantly increase the
+      potential performance of the business into the future.
+    image_path: /uploads/business-clockwork.png
+    button:
+      text: Get started
+      url: /contact/
   - _bookshop_name: numbers
     sections:
       - title: Our Mission
