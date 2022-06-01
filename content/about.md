@@ -33,9 +33,9 @@ content_blocks:
           delivered, levering the phone’s value.
       - title: Innovation Leadership
         text: >-
-          With the Cloud  and the affordable leverage it offers to businesses
-          seeking to take advantage of AI, the opportunity for business
-          innovation has never been greater.
+          With the Cloud  and the affordable, relatively low risk access to AI
+          it makes available, the opportunity for business innovation has never
+          been greater.
   - _bookshop_name: team
     preheading: Select Team
     heading: Global Reach, Experience, and Availability
