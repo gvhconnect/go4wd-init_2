@@ -80,19 +80,21 @@ content_blocks:
         content: >-
           The key to long term success is building differentiation in and
           engagement with the market.
-      - title: Interface Design
-        icon: ti-layers
-        content: We're not here to replace your internal team; we're here to partner.
       - title: Web & App development
         icon: ti-desktop
         content: >-
           From Requirements Definition, through Prototyping and Testing, we help
           clients improve outcomes.
+      - title: Interface Design
+        icon: ti-layers
+        content: >-
+          In this day and age, your digital face has to be resonate across
+          multiple channels.
       - title: Branding
         icon: ti-vector
         content: >-
-          A digital agency isn't here to replace your internal team, we're here
-          to partner.
+          Coherent and effective branding drives internal culture and commitment
+          as well as external engagement.
       - title: Sponsorship Marketing
         icon: ti-android
         content: >-
