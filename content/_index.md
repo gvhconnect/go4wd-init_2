@@ -75,21 +75,19 @@ content_blocks:
     preheading: Our Services
     heading: We provide consulting, development & agency services
     sections:
-      - title: Web & App development
-        icon: ti-desktop
-        content: >-
-          From Requirements Definition, through Rapid Prototyping and Testing,
-          we help clients improve outcomes.
-      - title: Interface Design
-        icon: ti-layers
-        content: >-
-          A digital agency isn't here to replace your internal team, we're here
-          to partner.
       - title: Business Development
         icon: ti-bar-chart
         content: >-
-          A digital agency isn't here to replace your internal team, we're here
-          to partner.
+          The key to long term success is continuous differentiation and
+          engagement with the market.
+      - title: Interface Design
+        icon: ti-layers
+        content: We're not here to replace your internal team; we're here to partner.
+      - title: Web & App development
+        icon: ti-desktop
+        content: >-
+          From Requirements Definition, through Prototyping and Testing, we help
+          clients improve outcomes.
       - title: Branding
         icon: ti-vector
         content: >-
