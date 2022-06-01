@@ -21,10 +21,12 @@ content_blocks:
     image_path: /uploads/business-clockwork-450px.png
   - _bookshop_name: numbers
     sections:
-      - title: The Analog
+      - title: Productivity
         text: >-
-          llum similique ducimus accusamus laudantium praesentium, impedit
-          quaerat, itaque maxime sunt deleniti voluptas distinctio.
+          Most business is still analog, within a data format that has become
+          digital. There is often much room for gains in Productivity by moving
+          processes to digital frameworks and platforms. This can be low hanging
+          fruit.
       - title: Vision
         text: >-
           llum similique ducimus accusamus laudantium praesentium, impedit
