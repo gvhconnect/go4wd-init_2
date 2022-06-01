@@ -6,9 +6,7 @@ hero:
   background_image: /uploads/lime-gr-field.png
 content_blocks:
   - _bookshop_name: big-hero
-    preheading: Living in Changing Times
-    heading: Better business results require more than good intentions...
-    background_image: /uploads/opt-garda-150px-h.png
+    background_image: /images/bg/Landing-Page_7(ii).png
   - _bookshop_name: services
     preheading: Our Services
     heading: We provide a wide range of creative services
