@@ -62,13 +62,12 @@ content_blocks:
         suffix:
         text: Awards Won
   - _bookshop_name: start
-    preheading: What we are
-    heading: We are a dynamic team of creative people
+    preheading: Technology is Core
+    heading: We use technology as a key pivot into the future.
     text: >-
-      We provide consulting services in the area of IFRS and management
-      reporting, helping companies to reach their highest level. We optimize
-      business processes, making them easier.
-    image_path: /uploads/home-7.png
+      Deriving practical and near term benefits by levering technology is
+      critical to business productivity and long term differentiation.
+    image_path: /images/bg/Data-Hall+.png
     button:
       text: Get started
       url: /contact/
