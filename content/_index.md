@@ -91,20 +91,20 @@ content_blocks:
           In this day and age, your digital face has to be resonate across
           multiple channels.
       - title: Branding
+        icon: ti-key
+        content: >-
+          Coherent and effective branding drives internal commitment as well as
+          external engagement.
+      - title: Sponsorship Marketing
         icon: ti-vector
         content: >-
-          Coherent and effective branding drives internal culture and commitment
-          as well as external engagement.
-      - title: Sponsorship Marketing
-        icon: ti-android
-        content: >-
-          A digital agency isn't here to replace your internal team, we're here
-          to partner.
+          Successful sponsorship is built around alignment of audience, values,
+          and vision that can transcend the banal.
       - title: Cloud dB & AI services
-        icon: ti-pencil-alt
+        icon: ti-cloud
         content: >-
-          A digital agency isn't here to replace your internal team, we're here
-          to partner.
+          The Cloud is the transformational milestone of this generation of
+          business opening up new horizons.
   - _bookshop_name: cta
     background_image: /images/bg/home-3+.png
     preheading: Our Services
