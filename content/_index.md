@@ -49,18 +49,18 @@ content_blocks:
       url: '#'
   - _bookshop_name: counter
     numbers:
-      - number: 1730
-        suffix: +
-        text: Projects Done
-      - number: 125
-        suffix: M
-        text: Users Worldwide
-      - number: 39
+      - number: 3
         suffix:
-        text: Available Countries
+        text: Apps in Development
+      - number: 328
+        suffix: '*'
+        text: Client Engagements
       - number: 14
         suffix:
         text: Awards Won
+      - number: 1
+        suffix:
+        text: US Patents filed
   - _bookshop_name: start
     preheading: Technology is Core
     heading: We use technology as a key pivot into the future.
