@@ -73,7 +73,7 @@ content_blocks:
       url: /contact/
   - _bookshop_name: services
     preheading: Our Services
-    heading: We provide both creative and management services
+    heading: We provide consulting, development and creative services
     sections:
       - title: Web & App development
         icon: ti-desktop
