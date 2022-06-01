@@ -45,9 +45,9 @@ content_blocks:
         twitter:
         instagram:
         linkedin:
-      - name: Jason Roy
-        image: /images/team/team-2.jpg
-        role: UI/UX Designer
+      - name: Fiona Kidd
+        image: /uploads/fk-shot---rh-350x437px.png
+        role: Chair, VP Sports
         facebook: themefisher
         twitter: themefisher
         instagram: themefisher
