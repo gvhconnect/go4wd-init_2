@@ -6,7 +6,7 @@ hero:
   background_image: /uploads/lime-gr-field.png
 content_blocks:
   - _bookshop_name: big-hero
-    background_image: /uploads/opt-garda-150px-h-144.png
+    background_image: /uploads/opti-placeholder-1390x270.png
   - _bookshop_name: services
     preheading: Our Services
     heading: We provide a wide range of creative services
