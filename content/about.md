@@ -26,10 +26,11 @@ content_blocks:
           A lot of business is still analog. Powerpoint is an analog hangover.
           Productivity gains can be had by moving hard to digital norms.  This
           is often low hanging fruit.
-      - title: Vision
+      - title: Customer Value
         text: >-
-          llum similique ducimus accusamus laudantium praesentium, impedit
-          quaerat, itaque maxime sunt deleniti voluptas distinctio.
+          New technologies change the cost base for customer relationships.
+          Apple tripled its value by adding value in how content is being
+          delivered, levering the phone’s value.
       - title: Our Approach
         text: >-
           llum similique ducimus accusamus laudantium praesentium, impedit
