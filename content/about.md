@@ -37,7 +37,7 @@ content_blocks:
           it makes available, the opportunity for ground breaking business
           innovation has never been greater.
   - _bookshop_name: team
-    preheading: Select Team
+    preheading:
     heading: Global Reach and Experience
     people:
       - name: George Hughes
