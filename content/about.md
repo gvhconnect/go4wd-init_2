@@ -48,10 +48,10 @@ content_blocks:
       - name: Fiona Kidd
         image: /uploads/fk-shot---rh-350x437px.png
         role: Chair, VP Sports
-        facebook: themefisher
-        twitter: themefisher
-        instagram: themefisher
-        linkedin: themefisher
+        facebook:
+        twitter:
+        instagram:
+        linkedin:
       - name: Emma Hughes
         image: /uploads/et-450px.png
         role: Developer / UI Designer
