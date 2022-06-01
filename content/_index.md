@@ -81,7 +81,7 @@ content_blocks:
           The key to long term success is building differentiation in and
           engagement with the market.
       - title: Web & App development
-        icon: ti-desktop
+        icon: ti-mobile
         content: >-
           From Requirements Definition, through Prototyping and Testing, we help
           clients improve outcomes.
