@@ -40,7 +40,7 @@ content_blocks:
     people:
       - name: George Hughes
         image: /uploads/gvh-tight-shot---rh-350x437px-1.png
-        role: Chief Cook & Bottle Washer
+        role: VP Biz, Tech
         facebook:
         twitter:
         instagram:
