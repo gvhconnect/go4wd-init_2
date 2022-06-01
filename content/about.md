@@ -16,8 +16,8 @@ content_blocks:
       AI enabled technology to create massive scale effects that radically
       change the cost base of growth. The key to business survival and
       prosperity lies in being able to navigate and connect to this landscape in
-      order to create sustainable differentiation that can drive performance and
-      long term competitive advantage.
+      order to create sustainable differentiation that can drive significant
+      performance growth and long term competitive advantage.
     image_path: /uploads/business-clockwork-450px.png
   - _bookshop_name: numbers
     sections:
