@@ -7,15 +7,14 @@ hero:
 content_blocks:
   - _bookshop_name: start
     preheading: Taking Care of Business
-    heading: We are a dynamic team of creative people
+    heading: Survival and Growth are
     text: >-
       Operations, Marketing and Development are all core - they must mesh,
-      enable and drive business growth along with productivity and
-      profitability. We work with clients, typically looking for ways to
+      enable and drive business growth along with improvements in productivity
+      and profitability.    We work with clients, typically looking for ways to
       streamline business processes, improve their scalability and reach, as
       well as identifying strategic changes that can significantly increase the
-      potential performance of the business into the future.ptimize business
-      processes, making them easier.
+      potential performance of the business into the future.
     image_path: /uploads/business-clockwork-450px.png
   - _bookshop_name: numbers
     sections:
