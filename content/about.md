@@ -38,13 +38,13 @@ content_blocks:
     preheading: Our Team
     heading: Expert Team member to get best service
     people:
-      - name: David Spensor
-        image: /images/team/team-1.jpg
-        role: Project Manager
-        facebook: themefisher
-        twitter: themefisher
-        instagram: themefisher
-        linkedin: themefisher
+      - name: George Hughes
+        image: /uploads/gvh-tight-shot---rh-350x437px.png
+        role: Chief Cook & Bottle Washer
+        facebook:
+        twitter:
+        instagram:
+        linkedin:
       - name: Jason Roy
         image: /images/team/team-2.jpg
         role: UI/UX Designer
