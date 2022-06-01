@@ -7,7 +7,7 @@ hero:
 content_blocks:
   - _bookshop_name: start
     preheading: Taking Care of Business
-    heading: Many Years of Working with Diverse Business Verticals
+    heading: The Future of Business is About Technology and Scale
     text: >-
       Operations, Marketing and Development are all core - they must mesh,
       enable and drive business growth along with improvements in productivity
