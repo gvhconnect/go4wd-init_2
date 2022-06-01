@@ -108,8 +108,8 @@ content_blocks:
   - _bookshop_name: cta
     background_image: /images/bg/home-3+.png
     preheading: Our Services
-    heading: We provide a wide range of creative and management  services
-    content: 'Have any project on mind? For immidiate support:'
+    heading: We provide consulting, development & agency services
+    content: Give us a call to explore how we can help you go4wd...
     phone: +1 289-748-7444
 ---
 
