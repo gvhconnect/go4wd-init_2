@@ -34,8 +34,8 @@ content_blocks:
       - title: Innovation Leadership
         text: >-
           With the Cloud  and the affordable, relatively low risk access to AI
-          it makes available, the opportunity for business innovation has never
-          been greater.
+          it makes available, the opportunity for ground breaking business
+          innovation has never been greater.
   - _bookshop_name: team
     preheading: Select Team
     heading: Global Reach, Experience, and Availability
