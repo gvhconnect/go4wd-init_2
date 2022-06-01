@@ -23,9 +23,9 @@ content_blocks:
     sections:
       - title: Productivity
         text: >-
-          A lot of business is still analog. There is often room for gains in
-          Productivity by moving processes and behaviours to digital norms.
-          Powerpoint is an analog hangover. This is often low hanging fruit.
+          A lot of business is still analog. Powerpoint is an analog hangover.
+          Productivity gains can be had by moving hard to digital norms.  This
+          is often low hanging fruit.
       - title: Vision
         text: >-
           llum similique ducimus accusamus laudantium praesentium, impedit
