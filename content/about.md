@@ -7,7 +7,7 @@ hero:
 content_blocks:
   - _bookshop_name: start
     preheading: Taking Care of Business
-    heading: Survival and Growth are
+    heading: Many Years of Working with Diverse Business Verticals
     text: >-
       Operations, Marketing and Development are all core - they must mesh,
       enable and drive business growth along with improvements in productivity
