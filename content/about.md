@@ -11,10 +11,13 @@ content_blocks:
     text: >-
       Operations, Marketing and Development are all core - they must mesh,
       enable and drive business growth along with improvements in productivity
-      and profitability.    We work with clients, typically looking for ways to
-      streamline business processes, improve their scalability and reach, as
-      well as identifying strategic changes that can significantly increase the
-      potential performance of the business into the future.
+      and profitability.  The most significant changes to business in the past
+      25 years have to do with the application of technology to create massive
+      scale effects that radically change the cost base of growth. We work with
+      clients, clarifying what their business is in test changing markets,
+      typically looking for ways to streamline business processes, improve
+      scalability and reach, as well as create sustainable differentiation that
+      will increase performance of the business into the future.
     image_path: /uploads/business-clockwork-450px.png
   - _bookshop_name: numbers
     sections:
