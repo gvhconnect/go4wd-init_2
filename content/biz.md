@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Page Name
+title: Biz
 hero:
   title: 'biz: the engine'
   background_image: /images/bg/pacific_blue_field.png
