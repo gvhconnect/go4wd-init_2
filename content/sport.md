@@ -9,9 +9,9 @@ content_blocks:
     background_image: /uploads/opti-antigua-2-1500px.png
   - _bookshop_name: counter_dark
     numbers:
-      - number: 3
+      - number: 77000
         suffix:
-        text: Apps in Development
+        text: Registered Opti dinghies world wide
       - number: 328
         suffix: '*'
         text: Client Engagements
