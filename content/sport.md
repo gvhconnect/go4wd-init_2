@@ -2,7 +2,7 @@
 _schema: default
 title: Sport
 hero:
-  title: 'sports: the bleeding edge'
+  title: 'sport: the bleeding edge'
   background_image: /uploads/lime-gr-field.png
 content_blocks:
   - _bookshop_name: big-hero
