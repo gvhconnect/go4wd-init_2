@@ -23,8 +23,8 @@ content_blocks:
       - title: Develop Winning Solutions
         icon: ti-medall
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit,
-          ducimus.
+          Winning. strategies emerge, usually out of analysis, testing
+          hypotheses as to where to go next, and validating outcomes at scale.
       - title: Deliver Measurable Success
         icon: ti-layers
         content: >-
