@@ -7,7 +7,7 @@ hero:
 content_blocks:
   - _bookshop_name: big-hero
     background_image: /uploads/opti-antigua-2-1500px.png
-  - _bookshop_name: counter
+  - _bookshop_name: counter_dark
     numbers:
       - number: 3
         suffix:
