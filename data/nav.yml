@@ -5,7 +5,7 @@ menu:
   - name: "Biz"
     url: "/biz/"
     open_in_new_tab: false
-  - name: "Sports"
+  - name: "Sport"
     url: "/sport/"
     open_in_new_tab: false
   - name: "Tech"
