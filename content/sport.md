@@ -7,6 +7,20 @@ hero:
 content_blocks:
   - _bookshop_name: big-hero
     background_image: /uploads/opti-antigua-2-1500px.png
+  - _bookshop_name: about
+    preheading: How We Work
+    heading: >-
+      We listen to Clients, their competitors, and their customers, and work
+      collaboratively to define significant goals.
+    subheading: We know the power of Competitive Advantage
+    content: >-
+      We provide consulting services in strategy, marketing, product
+      development, reporting, helping companies to reach their highest level. We
+      optimize business processes, making them easier.
+    background_image: /images/bg/home-1+.png
+    link:
+      text: Get started
+      url: '#'
   - _bookshop_name: services
     preheading: Our Services
     heading: We provide a wide range of creative services
