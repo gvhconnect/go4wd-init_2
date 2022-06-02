@@ -15,9 +15,9 @@ content_blocks:
       - number: 138
         suffix:
         text: 'Active Countries '
-      - number:
+      - number: 11.5
         suffix:
-        text: Ages of Kids
+        text: Median Age of Kids
       - number: 1
         suffix:
         text: US Patents filed
