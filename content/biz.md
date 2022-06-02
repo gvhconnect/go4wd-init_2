@@ -56,7 +56,7 @@ content_blocks:
         linkedin:
       - name: Emma Hughes
         image: /uploads/et-450px.png
-        role: Developer / UI Designer
+        role: Dir UXP / Design
         facebook:
         twitter:
         instagram:
