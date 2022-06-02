@@ -17,7 +17,9 @@ content_blocks:
     sections:
       - title: Define Performance Metrics
         icon: ti-desktop
-        content: You can't manage what you don't measure,&nbsp;
+        content: >-
+          Change in business tends to be incremental, and typically progress
+          needs to be measured with respect to specific inputs and outputs.
       - title: Develop Winning Solutions
         icon: ti-medall
         content: >-
