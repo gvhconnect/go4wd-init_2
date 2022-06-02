@@ -3,7 +3,7 @@ menu:
     url: "/"
     open_in_new_tab: false
   - name: "Biz"
-    url: "/about/"
+    url: "/biz/"
     open_in_new_tab: false
   - name: "Sports"
     url: "/sport/"
