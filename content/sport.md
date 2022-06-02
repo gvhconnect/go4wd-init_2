@@ -18,9 +18,9 @@ content_blocks:
       - number: 11.5
         suffix:
         text: Median Age of Kids
-      - number: 1
+      - number: 78
         suffix:
-        text: US Patents filed
+        text: '%''ge of Olympic Sailors who started in Optis'
   - _bookshop_name: about
     preheading: How We Work
     heading: >-
