@@ -13,7 +13,7 @@ content_blocks:
         suffix:
         text: Registered Opti dinghies world wide
       - number: 138
-        suffix: '*'
+        suffix:
         text: 'Active Countries '
       - number: 14
         suffix:
