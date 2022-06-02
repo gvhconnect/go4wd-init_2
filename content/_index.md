@@ -9,9 +9,6 @@ content_blocks:
     preheading: Living in Changing Times
     heading: Better business results require more than good intentions...
     background_image: /images/bg/Landing-Page_7(ii).png
-    link:
-      text: Get started
-      url: '#'
   - _bookshop_name: intro
     preheading: Experienced and Seasoned Professionals
     heading: >-
