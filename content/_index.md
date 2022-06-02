@@ -30,7 +30,7 @@ content_blocks:
         content: >-
           While success may be measurable -&nbsp; it's also crucial to
           understand the why's as well as the measured&nbsp; what's&nbsp; to get
-          the best, sustained results.
+          sustained results.
   - _bookshop_name: about
     preheading: How We Work
     heading: >-
