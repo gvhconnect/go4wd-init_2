@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Our pricing
+title: Tech
 hero:
   title: 'tech: new frontiers'
   background_image: /images/bg/hot_oragne_field.png
