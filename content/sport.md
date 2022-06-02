@@ -15,9 +15,9 @@ content_blocks:
       - number: 138
         suffix:
         text: 'Active Countries '
-      - number: 14
-        suffix:
-        text: Awards Won
+      - number: 5
+        suffix: ' - 15'
+        text: Ages of Kids
       - number: 1
         suffix:
         text: US Patents filed
