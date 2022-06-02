@@ -20,7 +20,7 @@ content_blocks:
         text: Median Age of Kids
       - number: 78
         suffix:
-        text: '%''ge of Olympic Sailors who started in Optis'
+        text: '%''ge of Olympic Sailors started in Optis'
   - _bookshop_name: start_left
     preheading: Technology is Core
     heading: We use technology as a key pivot into the future.
