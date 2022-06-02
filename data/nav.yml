@@ -6,7 +6,7 @@ menu:
     url: "/about/"
     open_in_new_tab: false
   - name: "Sports"
-    url: "/sports/"
+    url: "/sport/"
     open_in_new_tab: false
   - name: "Tech"
     url: "/pricing/"
