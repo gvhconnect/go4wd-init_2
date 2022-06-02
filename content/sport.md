@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Our Services
+title: Sport
 hero:
   title: 'sports: the bleeding edge'
   background_image: /uploads/lime-gr-field.png
