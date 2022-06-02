@@ -22,9 +22,9 @@ content_blocks:
         suffix:
         text: '%''ge of Olympic Sailors who started in Optis'
   - _bookshop_name: start
-      preheading: Technology is Core
-      heading: We use technology as a key pivot into the future.
-        text: >-
+    preheading: Technology is Core
+    heading: We use technology as a key pivot into the future.
+      text: >-
           Deriving practical and near term benefits by levering technology is
           critical to business productivity and long term differentiation.
       image_path: /images/bg/Data-Hall+.png
