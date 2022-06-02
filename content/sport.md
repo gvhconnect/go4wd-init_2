@@ -7,6 +7,20 @@ hero:
 content_blocks:
   - _bookshop_name: big-hero
     background_image: /uploads/opti-antigua-2-1500px.png
+  - _bookshop_name: counter
+    numbers:
+      - number: 3
+        suffix:
+        text: Apps in Development
+      - number: 328
+        suffix: '*'
+        text: Client Engagements
+      - number: 14
+        suffix:
+        text: Awards Won
+      - number: 1
+        suffix:
+        text: US Patents filed
   - _bookshop_name: about
     preheading: How We Work
     heading: >-
