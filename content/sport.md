@@ -12,9 +12,9 @@ content_blocks:
       - number: 77000
         suffix:
         text: Registered Opti dinghies world wide
-      - number: 328
+      - number: 138
         suffix: '*'
-        text: Client Engagements
+        text: 'Active Countries '
       - number: 14
         suffix:
         text: Awards Won
