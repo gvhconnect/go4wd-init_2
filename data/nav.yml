@@ -9,7 +9,7 @@ menu:
     url: "/sport/"
     open_in_new_tab: false
   - name: "Tech"
-    url: "/pricing/"
+    url: "/tech/"
     open_in_new_tab: false
   - name: "Portfolio"
     url: "/portfolio/"
