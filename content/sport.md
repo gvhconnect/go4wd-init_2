@@ -27,7 +27,7 @@ content_blocks:
       text: >-
           Deriving practical and near term benefits by levering technology is
           critical to business productivity and long term differentiation.
-      image_path: /images/bg/Data-Hall+.png
+    image_path: /images/bg/Data-Hall+.png
   - _bookshop_name: cta_mini
     preheading:
     heading: Entrust Your Project to Our Best Team of Professionals
