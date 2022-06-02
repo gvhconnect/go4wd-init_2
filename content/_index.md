@@ -25,12 +25,12 @@ content_blocks:
         content: >-
           Winning. strategies emerge, usually out of analysis, testing
           hypotheses as to where to go next, and validating outcomes at scale.
-      - title: Deliver Measurable Success
+      - title: Deliver Sustained Success
         icon: ti-layers
         content: >-
-          While success is ideally measurable -&nbsp; it's as important to probe
-          and understand the responses and the why's as much as the
-          measured&nbsp; what's to keep moving forward.
+          While success may be measurable -&nbsp; it's also crucial to
+          understand the why's as well as the measured&nbsp; what's&nbsp; to get
+          the best, sustained results.
   - _bookshop_name: about
     preheading: How We Work
     heading: >-
