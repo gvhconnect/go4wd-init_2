@@ -7,7 +7,21 @@ hero:
 content_blocks:
   - _bookshop_name: big-hero
     background_image: /uploads/opti-antigua-2-1500px.png
-  - _bookshop_name: services
+  - _bookshop_name: overview
+     description: Overview section
+     icon: theaters
+    preheading: We are creative
+    heading: We provide best solution to client with their business problem
+   sections:
+    - title: Modern & Responsive design
+      icon: ti-wand
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum,
+        aspernatur.
+    - title: Awarded licensed company
+      icon: ti-medall
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum,
+        aspernatur.
+- _bookshop_name: services
     preheading: Our Services
     heading: We provide a wide range of creative services
     sections:
