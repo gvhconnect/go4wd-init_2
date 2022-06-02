@@ -15,8 +15,8 @@ content_blocks:
       - number: 138
         suffix:
         text: 'Active Countries '
-      - number: 5
-        suffix: ' - 15'
+      - number:
+        suffix:
         text: Ages of Kids
       - number: 1
         suffix:
