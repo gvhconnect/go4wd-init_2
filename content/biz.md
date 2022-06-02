@@ -38,7 +38,7 @@ content_blocks:
           innovation has never been greater.
   - _bookshop_name: team
     preheading:
-    heading: Global Reach and Experience
+    heading: Global Range and Experience
     people:
       - name: George Hughes
         image: /uploads/gvh-tight-shot---rh-350x437px-1.png
