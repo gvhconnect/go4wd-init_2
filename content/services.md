@@ -5,9 +5,9 @@ hero:
   title: 'sports: the bleeding edge'
   background_image: /uploads/lime-gr-field.png
 content_blocks:
-- _bookshop_name: big-hero
+  - _bookshop_name: big-hero
     background_image: /uploads/opti-antigua-2-1500px.png
-- _bookshop_name: services
+  - _bookshop_name: services
     preheading: Our Services
     heading: We provide a wide range of creative services
     sections:
