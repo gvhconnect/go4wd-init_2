@@ -28,8 +28,9 @@ content_blocks:
       - title: Deliver Measurable Success
         icon: ti-layers
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit,
-          ducimus.
+          While success is ideally measurable -&nbsp; it's as important to probe
+          and understand the responses and the why's as much as the
+          measured&nbsp; what's to keep moving forward.
   - _bookshop_name: about
     preheading: How We Work
     heading: >-
