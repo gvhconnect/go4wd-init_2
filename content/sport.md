@@ -28,12 +28,23 @@ content_blocks:
       Deriving practical and near term benefits by levering technology is
       critical to business productivity and long term differentiation.
     image_path: /images/bg/Data-Hall+.png
-  - _bookshop_name: cta_mini
+  - _bookshop_name: start
+    preheading: Technology is Core
+    heading: We use technology as a key pivot into the future.
+    text: >-
+      Deriving practical and near term benefits by levering technology is
+      critical to business productivity and long term differentiation.
+    image_path: /images/bg/Data-Hall+.png
+  - _bookshop_name: start_left
+    preheading: Technology is Core
+    heading: We use technology as a key pivot into the future.
+    text: >-
+      Deriving practical and near term benefits by levering technology is
+      critical to business productivity and long term differentiation.
+    image_path: /images/bg/Data-Hall+.png
+- _bookshop_name: cta_mini
     preheading:
     heading: Entrust Your Project to Our Best Team of Professionals
-    button:
-      text: Contact
-      url: /contact/
   - _bookshop_name: cta_mini
     preheading:
     heading:
