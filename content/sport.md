@@ -21,7 +21,7 @@ content_blocks:
       - number: 78
         suffix:
         text: '%''ge of Olympic Sailors who started in Optis'
-  - _bookshop_name: start
+  - _bookshop_name: start_left
     preheading: Technology is Core
     heading: We use technology as a key pivot into the future.
     text: >-
