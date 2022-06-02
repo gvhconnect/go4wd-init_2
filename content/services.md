@@ -8,8 +8,6 @@ content_blocks:
   - _bookshop_name: big-hero
     background_image: /uploads/opti-antigua-2-1500px.png
   - _bookshop_name: overview
-      preheading: We are creative
-      heading: We provide best solution to client with their business problem
       sections:
       - title: Modern & Responsive design
         icon: ti-wand
