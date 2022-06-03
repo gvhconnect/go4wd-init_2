@@ -31,6 +31,11 @@ content_blocks:
           Even when success has been achieved and measured, it's crucial to
           understand the why's that give insights into what will drive sustained
           results.
+      - title: Branding
+        icon: ti-key
+        content: >-
+          Coherent and effective branding drives internal commitment as well as
+          external engagement.
   - _bookshop_name: about
     preheading: How We Work
     heading: >-
@@ -56,16 +61,6 @@ content_blocks:
       - number: 1
         suffix:
         text: US Patents filed
-  - _bookshop_name: about
-    preheading: How We Work
-    heading: >-
-      We listen to Clients, their competitors, and their customers, and work
-      collaboratively to define significant goals.
-    subheading: We know the power of Competitive Advantage
-    content: >-
-      We provide consulting services in strategy, marketing, product
-      development, reporting, helping companies to reach their highest level. We
-      optimize business processes, making them easier.
   - _bookshop_name: start
     preheading: Technology is Core
     heading: We use technology as a key pivot into the future.
