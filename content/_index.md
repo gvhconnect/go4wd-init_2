@@ -35,7 +35,7 @@ content_blocks:
     preheading: How We Work
     heading: >-
       We listen to Clients, research their competitors and customers, working
-      collaboratively with them to gain insights and define goals.
+      collaboratively to gain insights and define goals.
     subheading: We know the power of Competitive Advantage
     content: >-
       We provide consulting services in strategy, marketing, product
