@@ -36,12 +36,12 @@ content_blocks:
     heading: >-
       We listen to Clients, their competitors, and their customers, and work
       collaboratively to define significant goals.
-        icon: ti-bar-chart
-        subheading: We know the power of Competitive Advantage
-        content: >-
-          We provide consulting services in strategy, marketing, product
-          development, reporting, helping companies to reach their highest level. We
-          optimize business processes, making them easier.
+    icon: ti-bar-chart
+    subheading: We know the power of Competitive Advantage
+    content: >-
+      We provide consulting services in strategy, marketing, product
+      development, reporting, helping companies to reach their highest level. We
+      optimize business processes, making them easier.
     background_image: /images/bg/home_1d_450.png
   - _bookshop_name: counter
     numbers:
