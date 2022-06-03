@@ -18,7 +18,7 @@ content_blocks:
       - number: 11.5
         suffix:
         text: Median Age of Kids
-      - number: 78
+      - number: 77
         suffix:
         text: '%''ge of Olympic Sailors started in Optis'
   - _bookshop_name: start_left
