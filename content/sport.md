@@ -23,7 +23,7 @@ content_blocks:
         text: '%''ge of Olympic Sailors started in Optis'
   - _bookshop_name: start_left
     preheading: sports development
-    heading: for the benefit of mankind
+    heading: for the benefit of the sport, the participants, and mankind
     text: >-
       development is about building capacity to engage youth and build awareness
       of how to survive and prosper.
