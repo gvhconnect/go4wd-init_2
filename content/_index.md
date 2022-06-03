@@ -34,8 +34,8 @@ content_blocks:
   - _bookshop_name: about
     preheading: How We Work
     heading: >-
-      We listen to Clients, research their competitors and customers, working
-      collaboratively to gain insights and define goals.
+      We listen to Clients, their competitors, and their customers, and work
+      collaboratively to define significant goals.
     subheading: We know the power of Competitive Advantage
     content: >-
       We provide consulting services in strategy, marketing, product
@@ -58,7 +58,7 @@ content_blocks:
         text: Awards Won
       - number: 1
         suffix:
-        text: 'US Patents '
+        text: US Patents filed
   - _bookshop_name: start
     preheading: Technology is Core
     heading: We use technology as a key pivot into the future.
