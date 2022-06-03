@@ -35,7 +35,7 @@ content_blocks:
     preheading: How We Work
     heading: >-
       We listen to Clients, their competitors, and their customers, and work
-      collaboratively to define significant risks &goals.
+      collaboratively to define significant risks & goals.
     subheading: Gain Competitive Advantage
     content: >-
       We provide consulting services in strategy, marketing, product
