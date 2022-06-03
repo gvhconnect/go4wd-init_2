@@ -6,7 +6,7 @@ hero:
   background_image: /images/bg/home-2+.png
 content_blocks:
   - _bookshop_name: big-hero
-    preheading: Living in Challenging Times
+    preheading: Living in Changing Times
     heading: Better business results require more than good intentions...
     background_image: /images/bg/Landing-Page_7(ii).png
   - _bookshop_name: intro
@@ -41,7 +41,7 @@ content_blocks:
       We provide consulting services in strategy, marketing, product
       development, reporting, helping companies to reach their highest level. We
       optimize business processes, making them easier.
-    background_image: /images/bg/home_1d+_450.png
+    background_image: /images/bg/home_1d+.png
     link:
       text: Get started
       url: '#'
