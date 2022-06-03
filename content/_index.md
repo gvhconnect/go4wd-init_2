@@ -41,7 +41,7 @@ content_blocks:
       We provide consulting services in strategy, marketing, product
       development, reporting, helping companies to reach their highest level. We
       optimize business processes, making them easier.
-    background_image: /images/bg/home-1+.png
+    background_image: /images/bg/home_1c+.png
     link:
       text: Get started
       url: '#'
