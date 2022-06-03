@@ -40,7 +40,7 @@ content_blocks:
     content: >-
       We provide consulting services in strategy, marketing, product
       development, reporting, helping companies to reach their highest level. We
-      optimize business processes, making them easier.
+      optimize business processes, making them easier.&nbsp;
     background_image: /images/bg/home-1+.png
     link:
       text: Get started
