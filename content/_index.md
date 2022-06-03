@@ -31,11 +31,6 @@ content_blocks:
           Even when success has been achieved and measured, it's crucial to
           understand the why's that give insights into what will drive sustained
           results.
-      - title: Branding
-        icon: ti-key
-        content: >-
-          Coherent and effective branding drives internal commitment as well as
-          external engagement.
   - _bookshop_name: about
     preheading: How We Work
     heading: >-
@@ -46,6 +41,11 @@ content_blocks:
       We provide consulting services in strategy, marketing, product
       development, reporting, helping companies to reach their highest level. We
       optimize business processes, making them easier.
+      - title: Branding
+        icon: ti-key
+        content: >-
+          Coherent and effective branding drives internal commitment as well as
+          external engagement.
     background_image: /images/bg/home_1d_450.png
   - _bookshop_name: counter
     numbers:
