@@ -29,7 +29,8 @@ content_blocks:
         icon: ti-layers
         content: >-
           Even when success has been achieved and measured, it's crucial to
-          understand the why's that will drive sustained results.
+          understand the why's that give insights into what will drive sustained
+          results.
   - _bookshop_name: about
     preheading: How We Work
     heading: >-
