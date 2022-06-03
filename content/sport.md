@@ -22,11 +22,11 @@ content_blocks:
         suffix:
         text: '%''ge of Olympic Sailors started in Optis'
   - _bookshop_name: start_left
-    preheading: Technology is Core
-    heading: We use technology as a key pivot into the future.
+    preheading: sports development
+    heading: for the benefit of mankind
     text: >-
-      Deriving practical and near term benefits by levering technology is
-      critical to business productivity and long term differentiation.
+      development is about building capacity to engage youth and build awareness
+      of how to survive and prosper.
     image_path: /uploads/opti-ladder-680-680.png
   - _bookshop_name: start
     preheading: Technology is Core
