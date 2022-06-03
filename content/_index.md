@@ -34,7 +34,7 @@ content_blocks:
   - _bookshop_name: about
     preheading: How We Work
     heading: >-
-      We listen to Clients, study competitors, and customers, and work
+      We listen to Clients, study competitors and customers, and work
       collaboratively to define significant risks & goals.
     subheading: Gain Competitive Advantage
     content: >-
