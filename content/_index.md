@@ -66,7 +66,7 @@ content_blocks:
       We provide consulting services in strategy, marketing, product
       development, reporting, helping companies to reach their highest level. We
       optimize business processes, making them easier.
-    background_image: /images/bg/home_1d_450.png - _bookshop_name: start
+  - _background_image: /images/bg/home_1d_450.png - _bookshop_name: start
     preheading: Technology is Core
     heading: We use technology as a key pivot into the future.
     text: >-
