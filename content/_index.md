@@ -58,7 +58,7 @@ content_blocks:
         text: Awards Won
       - number: 1
         suffix:
-        text: US Patents filed
+        text: 'US Patents '
   - _bookshop_name: start
     preheading: Technology is Core
     heading: We use technology as a key pivot into the future.
