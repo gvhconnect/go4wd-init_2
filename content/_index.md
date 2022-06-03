@@ -37,7 +37,7 @@ content_blocks:
       We listen to Clients, their competitors, and their customers, and work
       collaboratively to define significant goals.
     icon: ti-key
-    subheading: We know the power of Competitive Advantage
+    heading: We know the power of Competitive Advantage
     content: >-
       We provide consulting services in strategy, marketing, product
       development, reporting, helping companies to reach their highest level. We
