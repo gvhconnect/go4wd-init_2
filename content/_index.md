@@ -34,8 +34,8 @@ content_blocks:
   - _bookshop_name: about
     preheading: How We Work
     heading: >-
-      We listen to Clients, their competitors, their customers, and work
-      collaboratively to define significant goals.
+      We listen to Clients, research their competitors and customers, working
+      collaboratively with them to gain insights and define goals.
     subheading: We know the power of Competitive Advantage
     content: >-
       We provide consulting services in strategy, marketing, product
