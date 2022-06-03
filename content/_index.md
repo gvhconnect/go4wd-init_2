@@ -42,15 +42,6 @@ content_blocks:
       development, reporting, helping companies to reach their highest level. We
       optimize business processes, making them easier.
     background_image: /images/bg/home_1d_450.png
-    link:
-      text: Get started
-      url: '#'
-  - _bookshop_name: cta
-    background_image:
-    preheading:
-    heading:
-    content:
-    phone:
   - _bookshop_name: counter
     numbers:
       - number: 3
@@ -65,7 +56,17 @@ content_blocks:
       - number: 1
         suffix:
         text: US Patents filed
-  - _bookshop_name: start
+  - _bookshop_name: about
+    preheading: How We Work
+    heading: >-
+      We listen to Clients, their competitors, and their customers, and work
+      collaboratively to define significant goals.
+    subheading: We know the power of Competitive Advantage
+    content: >-
+      We provide consulting services in strategy, marketing, product
+      development, reporting, helping companies to reach their highest level. We
+      optimize business processes, making them easier.
+    background_image: /images/bg/home_1d_450.png - _bookshop_name: start
     preheading: Technology is Core
     heading: We use technology as a key pivot into the future.
     text: >-
