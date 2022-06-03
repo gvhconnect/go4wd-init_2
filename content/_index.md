@@ -28,9 +28,8 @@ content_blocks:
       - title: Deliver Sustained Success
         icon: ti-layers
         content: >-
-          While success may be measurable -&nbsp; it's also crucial to
-          understand the why's as well as the measured&nbsp; what's&nbsp; to get
-          sustained results.
+          Even when success has been achieved and measured, it's crucial to
+          understand the why's that will drive sustained results.
   - _bookshop_name: about
     preheading: How We Work
     heading: >-
