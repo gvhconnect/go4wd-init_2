@@ -42,7 +42,7 @@ content_blocks:
       development, reporting, helping companies to reach their highest level. We
       optimize business processes, making them easier.
     background_image: /images/bg/home_1d_450.png
-   - _bookshop_name: counter
+ - _bookshop_name: counter
     numbers:
       - number: 3
         suffix:
