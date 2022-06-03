@@ -36,13 +36,21 @@ content_blocks:
     heading: >-
       We listen to Clients, their competitors, and their customers, and work
       collaboratively to define significant goals.
-    subheading: We know the power of Competitive Advantage
-    icon: ti-key
+    subheading: Gain the power of Competitive Advantage
     content: >-
       We provide consulting services in strategy, marketing, product
       development, reporting, helping companies to reach their highest level. We
       optimize business processes, making them easier.
     background_image: /images/bg/home_1d_450.png
+    link:
+      text: Get started
+      url: '#'
+  - _bookshop_name: cta
+    background_image:
+    preheading:
+    heading:
+    content:
+    phone:
   - _bookshop_name: counter
     numbers:
       - number: 3
@@ -64,6 +72,9 @@ content_blocks:
       Deriving practical and near term benefits by levering technology is
       critical to business productivity and long term differentiation.
     image_path: /images/bg/Data-Hall+.png
+    button:
+      text: Get started
+      url: /contact/
   - _bookshop_name: services
     preheading: Our Services
     heading: We provide consulting, development & agency services
