@@ -2,6 +2,7 @@ spec:
   structures:
     - content_blocks
   label: About
+  icon: fingerprint
   description: About section
   tags: []
 
