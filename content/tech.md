@@ -3,7 +3,7 @@ _schema: default
 title: Tech
 hero:
   title: 'tech: new frontiers'
-  background_image: /images/bg/hot_oragne_field.pnghero:
+  background_image: /images/bg/hot_oragne_field.png
 content_blocks:
   - _bookshop_name: start
     preheading: Taking Care of Business
