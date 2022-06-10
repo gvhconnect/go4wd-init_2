@@ -10,15 +10,14 @@ content_blocks:
     heading: The Future of Business is About AI and Scale
     image_path: /uploads/business-clockwork-450px.png
     text: >-
-      Operations, Marketing and Development are all core aspects of business. 
-      They must mesh, enable and drive business growth along with improvements
-      in productivity and profitability. The most significant changes to
-      business in the past and next 25 years have to do with the application of
-      AI enabled technology to create massive scale effects that radically
-      change the cost base of growth. The key to business survival and
-      prosperity lies in being able to navigate and connect to this landscape in
-      order to create sustainable differentiation that can drive significant
-      performance growth and long term competitive advantage.
+      20,000 transistors took the first men to the moon. The iPhone 13 has 15 billion. 
+      The past 50 years have seen the world of data become part of the fabric of 
+      day to day living - though we still live in a very “flat” world.
+      All that is changing quickly with the advent of the Cloud infrastructure along 
+      with hardware independent  web-based processing. 
+      This website is being delivered to you using what’s called “serverless” computing. 
+      Serverless is at the vanguard of a legion of more secure, powerful and adaptable 
+      tools that will revolutionize the face of business… …and within 10 years, not 50,
   - _bookshop_name: overview
     preheading: We are creative
     heading: We provide best solution to client with their business problem
