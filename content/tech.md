@@ -2,13 +2,14 @@
 _schema: default
 title: Tech
 hero:
-  title: 'biz: the engine'
-  background_image: /images/bg/pacific_blue_field.png
+  title: 'tech: new frontiers'
+  background_image: /images/bg/hot_oragne_field.pnghero:
 content_blocks:
   - _bookshop_name: start
     preheading: Taking Care of Business
     heading: The Future of Business is About AI and Scale
-    text: >-
+    image_path: /uploads/business-clockwork-450px.png
+text: >-
       Operations, Marketing and Development are all core aspects of business. 
       They must mesh, enable and drive business growth along with improvements
       in productivity and profitability. The most significant changes to
@@ -18,11 +19,6 @@ content_blocks:
       prosperity lies in being able to navigate and connect to this landscape in
       order to create sustainable differentiation that can drive significant
       performance growth and long term competitive advantage.
-    image_path: /uploads/business-clockwork-450px.png
-hero:
-  title: 'tech: new frontiers'
-  background_image: /images/bg/hot_oragne_field.png
-content_blocks:
   - _bookshop_name: overview
     preheading: We are creative
     heading: We provide best solution to client with their business problem
