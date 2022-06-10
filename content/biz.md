@@ -13,7 +13,7 @@ content_blocks:
       They must mesh, enable and drive business growth along with improvements
       in productivity and profitability. The most significant changes to
       business in the past and next 25 years have to do with the application of
-      AI enabled technology to create massive scale effects that radically
+      technology to create massive scale effects that continue to radically
       change the cost base of growth. The key to business survival and
       prosperity lies in being able to navigate and connect to this landscape in
       order to create sustainable differentiation that can drive significant
