@@ -8,7 +8,7 @@ content_blocks:
   - _bookshop_name: start
     preheading: The Next Wave
     heading: Much Bigger Impacts in Much Less Time
-    image_path: /uploads/business-clockwork-450px.png
+    image_path: /images/bg/A-15-chip.png
     text: >-
       20,000 transistors took the first men to the moon. The iPhone 13 has 15
       billion.  The past 50 years have seen the world of data become part of the
