@@ -12,8 +12,8 @@ content_blocks:
   - _bookshop_name: intro
     preheading: Experienced and Seasoned Professionals
     heading: >-
-      Experience and tech know how  are required to create, deliver and sustain
-      core business advantage.
+      Experience and  know how  are required to create, deliver and sustain core
+      business advantage.
     sections:
       - title: Define Performance Metrics
         icon: ti-desktop
