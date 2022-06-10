@@ -6,18 +6,19 @@ hero:
   background_image: /images/bg/hot_oragne_field.png
 content_blocks:
   - _bookshop_name: start
-    preheading: Taking Care of Business
-    heading: The Future of Business is About AI and Scale
+    preheading: The Next Wave
+    heading: Much Bigger Impacts in Much Less Time
     image_path: /uploads/business-clockwork-450px.png
     text: >-
-      20,000 transistors took the first men to the moon. The iPhone 13 has 15 billion. 
-      The past 50 years have seen the world of data become part of the fabric of 
-      day to day living - though we still live in a very “flat” world.
-      All that is changing quickly with the advent of the Cloud infrastructure along 
-      with hardware independent  web-based processing. 
-      This website is being delivered to you using what’s called “serverless” computing. 
-      Serverless is at the vanguard of a legion of more secure, powerful and adaptable 
-      tools that will revolutionize the face of business… …and within 10 years, not 50,
+      20,000 transistors took the first men to the moon. The iPhone 13 has 15
+      billion.  The past 50 years have seen the world of data become part of the
+      fabric of  day to day living - though we still live in a very “flat”
+      world. All that is changing quickly with the advent of the Cloud
+      infrastructure along  with hardware independent  web-based processing. 
+      This website is being delivered to you using what’s called “serverless”
+      computing.  Serverless is at the vanguard of a legion of more secure,
+      powerful and adaptable  tools that will revolutionize the face of
+      business… …and within 10 years, not 50,
   - _bookshop_name: overview
     preheading: We are creative
     heading: We provide best solution to client with their business problem
