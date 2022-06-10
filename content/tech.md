@@ -9,7 +9,7 @@ content_blocks:
     preheading: Taking Care of Business
     heading: The Future of Business is About AI and Scale
     image_path: /uploads/business-clockwork-450px.png
-text: >-
+    text: >-
       Operations, Marketing and Development are all core aspects of business. 
       They must mesh, enable and drive business growth along with improvements
       in productivity and profitability. The most significant changes to
