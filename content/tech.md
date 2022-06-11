@@ -25,34 +25,35 @@ content_blocks:
     preheading: Integration of Technology is Core
     heading: Technology remains the key pivot into the future.
     text: >-
-      Whether it's in terms of how to communicate more effectively with consumers,
-      add more value to services and / or products, or making it possible to 
-      radically scale the scope and reach of the business - deriving practical and 
-      near term benefits by levering technology is critical to business productivity 
-      and long term differentiation and strategic advantage.
+      Whether it's in terms of how to communicate more effectively with
+      consumers, add more value to services and / or products, or making it
+      possible to  radically scale the scope and reach of the business -
+      deriving practical and  near term benefits by levering technology is
+      critical to business productivity  and long term differentiation and
+      strategic advantage.
     image_path: /images/bg/Data-Hall+.png
   - _bookshop_name: intro
     preheading: The Proof is in the Pudding
-    heading: >-
-      Bottom Line Success will be achieved through a methodical approach 
+    heading: 'Bottom Line Success will be achieved through a methodical approach '
     sections:
       - title: Deliberate Planning and Staged Execution
         icon: ti-check
         content: >-
-          Analysis, validation, planning, testing, incremental progress
-          and team building are all key elements of what needs to be an explicit,
-          fact based, and methodical approach to creating success.. 
+          Analysis, validation, planning, testing, incremental progress and team
+          building are all key elements of what needs to be an explicit, fact
+          based, and methodical approach to creating success.. 
       - title: Management Investment and Decision-Making
         icon: ti-money
         content: >-
-          Winning. strategies typically come out of rigorous research, 
-          careful, measured and validated  identification of risks and 
-          opportunities, and the commitment of management to moving forward.
-      - title: A Balanced Perspective
+          Winning. strategies typically come out of rigorous research,  careful,
+          measured and validated  identification of risks and  opportunities,
+          and the commitment of management to moving forward.
+      - title: A Balanced Perspective of Success
         icon: ti-ruler
         content: >-
           While the goal is to win in a manner that produces significant gains
-          near term and longer term, longer term success will only be achieved 
-          if there's a team that emerges to carry processes and strategies forward.
+          near term and longer term, longer term success will only be achieved
+          if there's a team that emerges to carry processes and strategies
+          forward.
 ---
 
