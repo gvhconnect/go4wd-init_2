@@ -10,8 +10,10 @@ content_blocks:
     heading: Better business results require more than good intentions...
     background_image: /images/bg/Landing-Page_7(ii).png
   - _bookshop_name: intro
-    preheading: Technology is Core
-    heading: We use technology as a key pivot into the future.
+    preheading: Experienced and Seasoned Professionals
+    heading: >-
+      Experience and know how are required to create, deliver and sustain core
+      business advantage.
     sections:
       - title: Define Performance Metrics
         icon: ti-desktop
