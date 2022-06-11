@@ -23,4 +23,19 @@ content_blocks:
     hero:
       title: Hero
       background_image: /images/bg/home-2.jpg
+  - _bookshop_name: "intro"
+    preheading: We are creative & expert people
+    heading: We work with business & provide solution to client with their business
+    problem
+    sections:
+    - title: Modern & Responsive design
+      icon: ti-desktop
+      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus.
+    - title: Awarded licensed company
+      icon: ti-medall
+      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus.
+    - title: Build your website Professionally
+      icon: ti-layers
+      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus.
+
 ---
