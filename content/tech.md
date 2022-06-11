@@ -25,8 +25,11 @@ content_blocks:
     preheading: Integration of Technology is Core
     heading: Technology remains the key pivot into the future.
     text: >-
-      Deriving practical and near term benefits by levering technology is
-      critical to business productivity and long term differentiation.
+      Whether it's in terms of how to communicate more effectively with consumers,
+      add more value to services and / or products, or making it possible to 
+      radically scale the scope and reach of the business - deriving practical and 
+      near term benefits by levering technology is critical to business productivity 
+      and long term differentiation and strategic advantage.
     image_path: /images/bg/Data-Hall+.png
   - _bookshop_name: intro
     preheading: Experienced and Seasoned Professionals
