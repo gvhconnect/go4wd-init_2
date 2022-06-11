@@ -45,4 +45,16 @@ content_blocks:
           Even when success has been achieved and measured, it's crucial to
           understand the why's that give insights into what will drive sustained
           results.
+  - _bookshop_name: "hero"
+    title: Hero page
+    hero:
+      title: Hero
+      background_image: /images/bg/home-2.jpg
+  - _bookshop_name: "start_left"
+    image_path: /images/bg/home-7.jpg
+    preheading: What we are
+    heading: We are dynamic team of creative people
+    text: We provide consulting services in the area of IFRS and management
+      reporting, helping companies to reach their highest level. We optimize
+      business processes, making them easier.
 ---
