@@ -28,9 +28,6 @@ content_blocks:
       Deriving practical and near term benefits by levering technology is
       critical to business productivity and long term differentiation.
     image_path: /images/bg/Data-Hall+.png
-    button:
-      text: Get started
-      url: /contact/
   - _bookshop_name: intro
     preheading: Experienced and Seasoned Professionals
     heading: >-
