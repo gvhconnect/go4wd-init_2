@@ -7,7 +7,7 @@ hero:
 content_blocks:
   - _bookshop_name: start
     preheading: Taking Care of Business
-    heading: The Future of Business is About AI and Scale
+    heading: Smart Scaling in Business Has to be Built into Process
     text: >-
       Operations, Marketing and Development are all core aspects of business. 
       They must mesh, enable and drive business growth along with improvements
