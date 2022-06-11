@@ -5,10 +5,10 @@ hero:
   title: 'tech: new frontiers'
   background_image: /images/bg/hot_oragne_field.png
 content_blocks:
-  - _bookshop_name: start
+  - _bookshop_name: "start_left"
+    image_path: /images/bg/A-15-chip.png
     preheading: The Next Wave
     heading: Way Bigger Impacts in Much Less Time
-    image_path: /images/bg/A-15-chip.png
     text: >-
       16,500 transistors took the first men to the moon. Each of the estimated
       100 million  iPhone 13s in circulation carries an A15 chip that has over
