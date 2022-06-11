@@ -13,7 +13,7 @@ content_blocks:
       16,500 transistors took the first men to the moon. Each of the estimated
       100 million  iPhone 13s in circulation carries an A15 chip that has over
       15 billion on board each phone.
-
+<p>
       The past 50 years have seen the world of data  become part of the fabric
       of  day to day living - though we still live in  a very “flat” data
       world.  All that is changing quickly with the advent of the Cloud
