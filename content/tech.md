@@ -22,7 +22,7 @@ content_blocks:
       tools that will revolutionize the face of business…  …and within 10 years,
       not 50!
   - _bookshop_name: start
-    preheading: Technology is Core
+    preheading: Regardless of Business Type, Technology is Core
     heading: We use technology as a key pivot into the future.
     text: >-
       Deriving practical and near term benefits by levering technology is
