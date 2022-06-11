@@ -7,7 +7,7 @@ hero:
 content_blocks:
   - _bookshop_name: start
     preheading: The Next Wave
-    heading: 'Much Bigger Impacts: Much Less Time'
+    heading: Way Bigger Impacts in Much Less Time
     image_path: /images/bg/A-15-chip.png
     text: >-
       16,500 transistors took the first men to the moon. Each of the estimated
