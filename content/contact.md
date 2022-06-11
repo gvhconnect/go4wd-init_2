@@ -24,18 +24,25 @@ content_blocks:
       title: Hero
       background_image: /images/bg/home-2.jpg
   - _bookshop_name: "intro"
-    preheading: We are creative & expert people
-    heading: We work with business & provide solution to client with their business
-    problem
+    preheading: Experienced and Seasoned Professionals
+    heading: >-
+      Experience and know how are required to create, deliver and sustain core
+      business advantage.
     sections:
-    - title: Modern & Responsive design
-      icon: ti-desktop
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus.
-    - title: Awarded licensed company
-      icon: ti-medall
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus.
-    - title: Build your website Professionally
-      icon: ti-layers
-      content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus.
-
+      - title: Define Performance Metrics
+        icon: ti-desktop
+        content: >-
+          Change in business tends to be incremental, and typically progress
+          needs to be measured with respect to specific inputs and outputs.
+      - title: Develop Winning Solutions
+        icon: ti-medall
+        content: >-
+          Winning. strategies emerge, usually out of analysis, testing
+          hypotheses as to where to go next, and validating outcomes at scale.
+      - title: Deliver Sustained Success
+        icon: ti-layers
+        content: >-
+          Even when success has been achieved and measured, it's crucial to
+          understand the why's that give insights into what will drive sustained
+          results.
 ---
