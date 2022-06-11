@@ -48,7 +48,6 @@ content_blocks:
           Winning. strategies typically come out of rigorous research, 
           careful, measured and validated  identification of risks and 
           opportunities, and the commitment of management to moving forward.
-      goals will lead to 
       - title: A Balanced Perspective
         icon: ti-layers
         content: >-
