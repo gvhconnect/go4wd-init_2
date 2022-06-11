@@ -33,8 +33,8 @@ content_blocks:
       strategic advantage.
     image_path: /images/bg/Data-Hall+.png
   - _bookshop_name: intro
-    preheading: The Proof is in the Pudding
-    heading: 'Longer Term Success will be achieved through a methodical approach '
+    preheading: The Proof will be in the Pudding
+    heading: 'Long Term Success will be achieved through a methodical approach '
     sections:
       - title: Deliberate Planning and Staged Execution
         icon: ti-desktop
