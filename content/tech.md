@@ -21,7 +21,7 @@ content_blocks:
       This website is being delivered to you using what’s called “serverless” 
       computing.  Serverless is at the vanguard of a legion of more secure,
       powerful  and adaptable  tools that will revolutionize the face of
-      business…  …and within 10 years, not 50!
+      business…  …and within 10 years, not 50!.
   - _bookshop_name: overview
     preheading: We are creative
     heading: We provide best solution to client with their business problem
