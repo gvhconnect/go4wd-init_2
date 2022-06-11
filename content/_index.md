@@ -31,12 +31,6 @@ content_blocks:
           Even when success has been achieved and measured, it's crucial to
           understand the why's that give insights into what will drive sustained
           results.
-  - _bookshop_name: cta
-    background_image:
-    preheading:
-    heading:
-    content:
-    phone:
   - _bookshop_name: about
     preheading: How We Work
     heading: >-
