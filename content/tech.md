@@ -32,26 +32,28 @@ content_blocks:
       and long term differentiation and strategic advantage.
     image_path: /images/bg/Data-Hall+.png
   - _bookshop_name: intro
-    preheading: Experienced and Seasoned Professionals
+    preheading: The Proof is in the Pudding
     heading: >-
-      Experience and know how are required to create, deliver and sustain core
-      business advantage.
+      Bottom Line Success will be achieved through a methodical approach 
     sections:
-      - title: Define Performance Metrics
+      - title: Deliberate Planning and Staged Execution
         icon: ti-desktop
         content: >-
-          Change in business tends to be incremental, and typically progress
-          needs to be measured with respect to specific inputs and outputs.
-      - title: Develop Winning Solutions
+          Analysis, validation, planning, testing, incremental progress
+          and team building are all key elements of what needs to be an explicit,
+          fact based, and methodical approach to creating success.. 
+      - title: Management Investment and Decision-Making
         icon: ti-medall
         content: >-
-          Winning. strategies emerge, usually out of analysis, testing
-          hypotheses as to where to go next, and validating outcomes at scale.
-      - title: Deliver Sustained Success
+          Winning. strategies typically come out of rigorous research, 
+          careful, measured and validated  identification of risks and 
+          opportunities, and the commitment of management to moving forward.
+      goals will lead to 
+      - title: A Balanced Perspective
         icon: ti-layers
         content: >-
-          Even when success has been achieved and measured, it's crucial to
-          understand the why's that give insights into what will drive sustained
-          results.
+          While the goal is to win in a manner that produces significant gains
+          near term and longer term, longer term success will only be achieved 
+          if there's a team that emerges to carry processes and strategies forward.
 ---
 
