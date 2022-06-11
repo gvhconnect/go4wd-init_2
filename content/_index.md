@@ -59,16 +59,6 @@ content_blocks:
       - number: 1
         suffix:
         text: US Patents filed
-  - _bookshop_name: start
-    preheading: Technology is Core
-    heading: We use technology as a key pivot into the future.
-    text: >-
-      Deriving practical and near term benefits by levering technology is
-      critical to business productivity and long term differentiation.
-    image_path: /images/bg/Data-Hall+.png
-    button:
-      text: Get started
-      url: /contact/
   - _bookshop_name: services
     preheading: Our Services
     heading: We provide consulting, development & agency services
