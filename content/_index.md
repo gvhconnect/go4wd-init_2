@@ -10,10 +10,8 @@ content_blocks:
     heading: Better business results require more than good intentions...
     background_image: /images/bg/Landing-Page_7(ii).png
   - _bookshop_name: intro
-    preheading: Experienced and Seasoned Professionals
-    heading: >-
-      Experience and  know how  are required to create, deliver and sustain core
-      business advantage.
+    preheading: Technology is Core
+    heading: We use technology as a key pivot into the future.
     sections:
       - title: Define Performance Metrics
         icon: ti-desktop
@@ -31,6 +29,12 @@ content_blocks:
           Even when success has been achieved and measured, it's crucial to
           understand the why's that give insights into what will drive sustained
           results.
+  - _bookshop_name: cta
+    background_image:
+    preheading:
+    heading:
+    content:
+    phone:
   - _bookshop_name: about
     preheading: How We Work
     heading: >-
@@ -45,12 +49,6 @@ content_blocks:
     link:
       text: Get started
       url: '#'
-  - _bookshop_name: cta
-    background_image:
-    preheading:
-    heading:
-    content:
-    phone:
   - _bookshop_name: counter
     numbers:
       - number: 3
