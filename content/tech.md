@@ -21,6 +21,29 @@ content_blocks:
       is at the vanguard of a legion of more secure, powerful  and adaptable 
       tools that will revolutionize the face of business…  …and within 10 years,
       not 50!
+ - _bookshop_name: "intro"
+    preheading: Experienced and Seasoned Professionals
+    heading: >-
+      Experience and know how are required to create, deliver and sustain core
+      business advantage.
+    sections:
+      - title: Define Performance Metrics
+        icon: ti-desktop
+        content: >-
+          Change in business tends to be incremental, and typically progress
+          needs to be measured with respect to specific inputs and outputs.
+      - title: Develop Winning Solutions
+        icon: ti-medall
+        content: >-
+          Winning. strategies emerge, usually out of analysis, testing
+          hypotheses as to where to go next, and validating outcomes at scale.
+      - title: Deliver Sustained Success
+        icon: ti-layers
+        content: >-
+          Even when success has been achieved and measured, it's crucial to
+          understand the why's that give insights into what will drive sustained
+          results.
+v
   - _bookshop_name: overview
     preheading: We are creative
     heading: We provide best solution to client with their business problem
