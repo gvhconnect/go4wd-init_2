@@ -21,7 +21,7 @@ content_blocks:
       is at the vanguard of a legion of more secure, powerful  and adaptable 
       tools that will revolutionize the face of business…  …and within 10 years,
       not 50!
-  - _bookshop_name: "intro"
+  - _bookshop_name: intro
     preheading: Experienced and Seasoned Professionals
     heading: >-
       Experience and know how are required to create, deliver and sustain core
@@ -43,19 +43,5 @@ content_blocks:
           Even when success has been achieved and measured, it's crucial to
           understand the why's that give insights into what will drive sustained
           results.
-  - _bookshop_name: overview
-    preheading: We are creative
-    heading: We provide best solution to client with their business problem
-    sections:
-      - icon: ti-wand
-        title: Modern & Responsive design
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum,
-          aspernatur.
-      - icon: ti-medall
-        title: Awarded licensed company
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum,
-          aspernatur.
 ---
 
