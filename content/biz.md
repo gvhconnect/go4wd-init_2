@@ -11,13 +11,13 @@ content_blocks:
     text: >-
       Operations, Marketing and Development are all core aspects of business. 
       They must mesh, enable and drive business growth along with improvements
-      in productivity and profitability. The most significant changes to
-      business in the past and next 25 years have to do with the application of
-      technology to create massive scale effects that continue to radically
-      change the cost base of growth. The key to business survival and
-      prosperity lies in being able to navigate and connect to this landscape in
-      order to create sustainable differentiation that can drive significant
-      performance growth and long term competitive advantage.
+      in productivity and profitability.   The most significant changes to
+      business in the past 50 years have to do with the application of
+      technology to massively scale businesses while radically reducing time to
+      market and cost base of growth.   The key to business success lies in
+      being able to tap into these technologies as a matter of process, while
+      creating sustainable differentiation that can drive performance growth and
+      long term competitive advantage.
     image_path: /uploads/business-clockwork-450px.png
   - _bookshop_name: numbers
     sections:
