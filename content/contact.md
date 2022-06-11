@@ -18,4 +18,9 @@ content_blocks:
     latitude: 40.712776
     longitude: -74.005974
     name: "Megakit"
+  - _bookshop_name: "hero"
+  - title: Hero page
+    hero:
+      title: Hero
+      background_image: /images/bg/home-2.jpg
 ---
