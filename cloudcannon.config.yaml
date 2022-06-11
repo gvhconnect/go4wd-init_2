@@ -76,6 +76,7 @@ _inputs:
         ti-arrow-right: Arrow-Right
         ti-arrow-left: Arrow-Left
         ti-arrow-down: Arrow-Down
+        ti-dollar-sign: Dollar-sign
         ti-lock: Lock
         ti-location-arrow: Location-Arrow
         ti-link: Link
