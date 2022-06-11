@@ -43,13 +43,13 @@ content_blocks:
           and team building are all key elements of what needs to be an explicit,
           fact based, and methodical approach to creating success.. 
       - title: Management Investment and Decision-Making
-        icon: ti-dollar-sign
+        icon: ti-money
         content: >-
           Winning. strategies typically come out of rigorous research, 
           careful, measured and validated  identification of risks and 
           opportunities, and the commitment of management to moving forward.
       - title: A Balanced Perspective
-        icon: ti-balance-scale
+        icon: ti-ruler
         content: >-
           While the goal is to win in a manner that produces significant gains
           near term and longer term, longer term success will only be achieved 
