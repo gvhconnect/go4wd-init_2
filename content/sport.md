@@ -23,13 +23,15 @@ content_blocks:
         text: '%''ge of Olympic Sailors started in Optis'
   - _bookshop_name: start_left
     preheading: sports development
-    heading: in a crowded world, kids need goals and pathways
+    heading: in a crowded world, kids need goals and paths
     text: >-
-      A child’s reach must exceed its grasp, or what’s a heaven for. Sport gives
-      kids the chance to experience aspiration, while helping kids to learn
-      social, motor, and intellectual skills. Managing sports development
-      organizations, frameworks and policies effectively presents its own sets
-      of unique challenges - an opportunities.
+      A child’s reach must exceed its grasp, or what’s a heaven for? Sport gives
+      kids the chance to have fun, experience aspiration, as well as to learn
+      social, motor, and intellectual skills. Delivering on these potentials is
+      typically the job of sports organizations working at local, regional,
+      national and global levels. Managing such organizations, creating,
+      measuring and fine tuning frameworks and policies effectively over time,
+      presents its own sets of unique challenges - and opportunities.
     image_path: /uploads/sport-dev-1.png
   - _bookshop_name: start
     preheading: Technology is Core
