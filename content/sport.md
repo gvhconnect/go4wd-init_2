@@ -46,8 +46,8 @@ content_blocks:
       are all sports events. Sports offers unique sets of channels into peoples’
       lives. Understanding and having experience in the management and delivery
       of sports at the highest levels informs and enriches the ability to help
-      sports stay in touch with the times, grow and gain more relevance and
-      reach.
+      sports stay in touch with the times, grow and gain more relevance while
+      extending global reach..
     image_path: /uploads/sport-event-1.png
   - _bookshop_name: start
     preheading: Sponsorship Management
