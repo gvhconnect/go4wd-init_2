@@ -1,29 +1,30 @@
 ---
-title: "Contact Us"
+_schema: default
+title: Contact Us
 hero:
-  title: "Get In Touch"
-  background_image: "/images/bg/home-2.jpg"
+  title: Get In Touch
+  background_image: /images/bg/home-2.jpg
 content_blocks:
-  - _bookshop_name: "contact_form"
-    preheading: "We are Professionals"
-    heading: "Don’t Hesitate to contact with us for any kind of information"
-    form_heading: "Contact Form"
-    address: "North Main Street, Brooklyn, Australia"
-    email: contact@mail.com 
-    phone: +88 01672 506 744 
-    facebook: themefisher
-    twitter: themefisher
-    linkedin: themefisher
-  - _bookshop_name: "map"
+  - _bookshop_name: contact_form
+    preheading: We are Professionals
+    heading: Drop us a line, send a note...
+    form_heading: Contact Form
+    address: Marlborough Avenue, Toronto, CANADA
+    email: admin@go4wd.consulting
+    phone: +1 289-748-7444
+    facebook:
+    twitter:
+    linkedin:
+  - _bookshop_name: map
     latitude: 40.712776
     longitude: -74.005974
-    name: "Megakit"
-  - _bookshop_name: "hero"
+    name: Megakit
+  - _bookshop_name: hero
     title: Hero page
     hero:
       title: Hero
       background_image: /images/bg/home-2.jpg
-  - _bookshop_name: "intro"
+  - _bookshop_name: intro
     preheading: Experienced and Seasoned Professionals
     heading: >-
       Experience and know how are required to create, deliver and sustain core
@@ -45,16 +46,18 @@ content_blocks:
           Even when success has been achieved and measured, it's crucial to
           understand the why's that give insights into what will drive sustained
           results.
-  - _bookshop_name: "hero"
+  - _bookshop_name: hero
     title: Hero page
     hero:
       title: Hero
       background_image: /images/bg/home-2.jpg
-  - _bookshop_name: "start_left"
+  - _bookshop_name: start_left
     image_path: /images/bg/home-7.jpg
     preheading: What we are
     heading: We are dynamic team of creative people
-    text: We provide consulting services in the area of IFRS and management
+    text: >-
+      We provide consulting services in the area of IFRS and management
       reporting, helping companies to reach their highest level. We optimize
       business processes, making them easier.
 ---
+
