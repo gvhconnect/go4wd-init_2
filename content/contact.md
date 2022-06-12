@@ -16,9 +16,9 @@ content_blocks:
     twitter:
     linkedin:
   - _bookshop_name: map
-    latitude: 40.712776
-    longitude: -74.005974
-    name: Megakit
+    latitude: 43.7031
+    longitude: -79.51219
+    name: go4wd.consulting
   - _bookshop_name: hero
     title: Hero page
     hero:
