@@ -35,8 +35,8 @@ content_blocks:
       presents its own sets of unique challenges - and opportunities.
     image_path: /uploads/sport-dev-1.png
   - _bookshop_name: start
-    preheading: Event Management & Delivery
-    heading: Sport's Impact flows from Discipline on and off the pitch.
+    preheading: Sport Management & Delivery
+    heading: Impacts flow from Discipline on and off the pitch.
     text: >-
       Every game happens by way of negotiation. Do you want to play? What rules?
       …and so on. As events involve more people from more places, require more
