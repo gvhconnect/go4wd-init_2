@@ -62,7 +62,7 @@ content_blocks:
       possible.
     image_path: /uploads/sport-sponsorhip3.png
   - _bookshop_name: cta_mini
-    preheading:
+    preheading: Contact us Today
     heading: Entrust Your Project to Our Best Team of Professionals
   - _bookshop_name: cta_mini
     preheading:
