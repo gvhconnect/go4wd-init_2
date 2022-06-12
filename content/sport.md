@@ -23,10 +23,13 @@ content_blocks:
         text: '%''ge of Olympic Sailors started in Optis'
   - _bookshop_name: start_left
     preheading: sports development
-    heading: in a crowded world, kids need goals more than ever
+    heading: in a crowded world, kids need goals and pathways
     text: >-
-      development is about building capacity to engage youth and build awareness
-      of how to survive and prosper.
+      A child’s reach must exceed its grasp, or what’s a heaven for. Sport gives
+      kids the chance to experience aspiration, while helping kids to learn
+      social, motor, and intellectual skills. Managing sports development
+      organizations, frameworks and policies effectively presents its own sets
+      of unique challenges - an opportunities.
     image_path: /uploads/sport-dev-1.png
   - _bookshop_name: start
     preheading: Technology is Core
