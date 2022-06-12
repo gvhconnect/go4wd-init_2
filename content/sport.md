@@ -38,16 +38,14 @@ content_blocks:
     preheading: Sport Management & Delivery
     heading: Impacts flow from Discipline on and off pitch
     text: >-
-      Every game happens by way of negotiation. Do you want to play? What rules?
-      …and so on. As events involve more people from more places, require more
-      resources, and translate to bigger “stakes” for participants, the
-      discipline of delivery becomes more important - as typically does the
-      potential audience for the event. The largest media events in the world
-      are all sports events. Sports offers unique sets of channels into peoples’
-      lives. Understanding and having experience in the management and delivery
-      of sports at the highest levels informs and enriches the ability to help
-      sports stay in touch with the times, grow and gain more relevance while
-      extending global reach..
+      Every game happens by way of negotiation. Do you want to play? …what
+      rules? …and so on. As events involve more people from more places, they
+      require more resources that translate to bigger “stakes”.  Delivery
+      becomes paramount - for the event and audiences. The largest global media
+      events are sports events. Sports offers unique sets of pathways into
+      peoples’ lives. Managing this process effectively defines the relevance of
+      sports,  how they can grow and gain more relevance while extending global
+      reach and impact..
     image_path: /uploads/sport-event-1.png
   - _bookshop_name: start
     preheading: Sponsorship Management
