@@ -23,12 +23,11 @@ content_blocks:
         text: '%''ge of Olympic Sailors started in Optis'
   - _bookshop_name: start
     preheading: sports development
-    heading: in a crowded world, kids need goals and paths
+    heading: in a crowded world, kids need goals and paths more than ever
     text: >-
-      A child’s reach must exceed its grasp, or what’s a heaven for? Sport gives
-      kids the chance to have fun, experience aspiration, as well as to learn
-      social, motor, and intellectual skills that will provide benefits all
-      through their lives. Enabling the delivering on these potentials is
+      Sport gives kids the chance to have fun, experience aspiration, as well as
+      to learn social, motor, and intellectual skills that will provide benefits
+      all through their lives. Enabling the delivering on these potentials is
       typically the job of sports organizations working at local, regional,
       national and global levels. Managing such organizations, creating,
       measuring and fine tuning frameworks and policies effectively over time,
