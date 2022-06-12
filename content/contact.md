@@ -6,7 +6,7 @@ hero:
   background_image: /images/bg/home-2.jpg
 content_blocks:
   - _bookshop_name: contact_form
-    preheading: We are Professionals
+    preheading: Say hello...
     heading: Drop us a line, send a note...
     form_heading: Contact Form
     address: Marlborough Avenue, Toronto, CANADA
