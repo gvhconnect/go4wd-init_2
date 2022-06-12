@@ -3,7 +3,7 @@ _schema: default
 title: Contact Us
 hero:
   title: Get In Touch
-  background_image: /images/bg/home-2.jpg
+  background_image: /images/bg/aubergine_field.png
 content_blocks:
   - _bookshop_name: contact_form
     preheading: Say hello...
