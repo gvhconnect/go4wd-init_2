@@ -35,11 +35,21 @@ content_blocks:
       presents its own sets of unique challenges - and opportunities.
     image_path: /uploads/sport-dev-1.png
   - _bookshop_name: start
-    preheading: Technology is Core
-    heading: We use technology as a key pivot into the future.
+    preheading: Event Management & Delivery
+    heading: >-
+      The Impact of Sport is a function of the Discipline of Delivery, on and
+      off the pitch.
     text: >-
-      Deriving practical and near term benefits by levering technology is
-      critical to business productivity and long term differentiation.
+      Every game happens by way of negotiation. Do you want to play? What rules?
+      …and so on. As events involve more people from more places, require more
+      resources, and translate to bigger “stakes” for participants, the
+      discipline of delivery becomes more important - as typically does the
+      potential audience for the event. The largest media events in the world
+      are all sports events. Sports offers unique sets of channels into peoples’
+      lives. Understanding and having experience in the management and delivery
+      of sports at the highest levels informs and enriches the ability to help
+      sports stay in touch with the times, grow and gain more relevance and
+      reach.
     image_path: /uploads/sport-event-1.png
   - _bookshop_name: start_left
     preheading: Technology is Core
