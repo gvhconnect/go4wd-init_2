@@ -37,8 +37,8 @@ content_blocks:
   - _bookshop_name: start
     preheading: Event Management & Delivery
     heading: >-
-      The Impact of Sport is a function of the Discipline of Delivery, on and
-      off the pitch.
+      Impact in Sport is a function of the Discipline of Delivery, on and off
+      the pitch.
     text: >-
       Every game happens by way of negotiation. Do you want to play? What rules?
       …and so on. As events involve more people from more places, require more
