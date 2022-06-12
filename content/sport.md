@@ -21,7 +21,7 @@ content_blocks:
       - number: 77
         suffix:
         text: '%''ge of Olympic Sailors started in Optis'
-  - _bookshop_name: start_left
+  - _bookshop_name: start
     preheading: sports development
     heading: in a crowded world, kids need goals and paths
     text: >-
@@ -51,12 +51,18 @@ content_blocks:
       sports stay in touch with the times, grow and gain more relevance and
       reach.
     image_path: /uploads/sport-event-1.png
-  - _bookshop_name: start_left
-    preheading: Technology is Core
-    heading: We use technology as a key pivot into the future.
+  - _bookshop_name: start
+    preheading: Sponsorship Management
+    heading: Sponsorship is a Critical Aspect of Enabling A Sport's Success
     text: >-
-      Deriving practical and near term benefits by levering technology is
-      critical to business productivity and long term differentiation.
+      The fundamental metric of Sponsorship is Fulfillment: did the Sponsorship
+      deliver what was promised in the manner in which was promised as measured 
+      by some kind of objective third party criteria. All successful sponsorships
+      are founded on this principle. However the truly successful ones go well 
+      beyond that. They are marriages in heaven that completely align for sport
+      and sponsor at the brand level, and provide the capacity to build bridges
+      far beyond what conventional marketing can accomplish. Aligning sport 
+      success with sponsor brand success can make the impossible possible.
     image_path: /uploads/sport-sponsorhip3.png
   - _bookshop_name: cta_mini
     preheading:
