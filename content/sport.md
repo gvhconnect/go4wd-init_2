@@ -53,7 +53,7 @@ content_blocks:
     image_path: /uploads/sport-event-1.png
   - _bookshop_name: start
     preheading: Sponsorship Management
-    heading: Sponsorship is to Enabling Exceptional Outcomes
+    heading: Sponsorship Enables Exceptional Outcomes
     text: >-
       The fundamental metric of Sponsorship is Fulfillment: did the Sponsorship
       deliver what was promised in the manner in which was promised as measured 
