@@ -27,7 +27,7 @@ content_blocks:
     text: >-
       development is about building capacity to engage youth and build awareness
       of how to survive and prosper.
-    image_path: /uploads/opti-ladder-680-680.png
+    image_path: /uploads/sport-dev-1.png
   - _bookshop_name: start
     preheading: Technology is Core
     heading: We use technology as a key pivot into the future.
