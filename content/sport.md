@@ -27,7 +27,8 @@ content_blocks:
     text: >-
       A child’s reach must exceed its grasp, or what’s a heaven for? Sport gives
       kids the chance to have fun, experience aspiration, as well as to learn
-      social, motor, and intellectual skills. Delivering on these potentials is
+      social, motor, and intellectual skills that will provide benefits all
+      through their lives. Enabling the delivering on these potentials is
       typically the job of sports organizations working at local, regional,
       national and global levels. Managing such organizations, creating,
       measuring and fine tuning frameworks and policies effectively over time,
