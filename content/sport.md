@@ -34,7 +34,7 @@ content_blocks:
     text: >-
       Deriving practical and near term benefits by levering technology is
       critical to business productivity and long term differentiation.
-    image_path: /images/bg/Data-Hall+.png
+    image_path: /uploads/sport-event-1.png
   - _bookshop_name: start_left
     preheading: Technology is Core
     heading: We use technology as a key pivot into the future.
