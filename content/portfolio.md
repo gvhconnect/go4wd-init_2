@@ -24,8 +24,8 @@ content_blocks:
       - name: 'Eatons Relaunch '
         image_path: /images/portfolio/EatonsCalgary-ext-hor.JPG
         type: Brand & Store Design
-      - name: Project California
-        image_path: /images/portfolio/6.jpg
-        type: Web Development
+      - name: Sarah - AI Concierge
+        image_path: /images/portfolio/Sarah_AI_Mobile_Concierge.png
+        type: Product Development
 ---
 
