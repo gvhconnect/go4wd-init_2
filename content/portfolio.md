@@ -21,6 +21,9 @@ content_blocks:
       - name: Tridel 1985 - PO Journals on Site
         image_path: /images/portfolio/PO-JOurnal-on-Tridel-COnstruction-Sites.png
         type: Productivity Leadership
+      - name: 'Eatons Relaunch '
+        image_path: /images/portfolio/EatonsCalgary-ext-hor.JPG
+        type: Brand & Store Design
       - name: Project California
         image_path: /images/portfolio/6.jpg
         type: Web Development
