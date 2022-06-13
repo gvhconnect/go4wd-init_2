@@ -12,10 +12,6 @@ content_blocks:
       - name: US Cellular
         image_path: /images/portfolio/usCELL-concepts-019.jpg
         type: Instore Brand
-      - name: US PAtent: Intelligent Merchandiser
-        image_path: /images/portfolio/I-M-Patent-lge.tif
-        type: Web Development
-      - name: Project California
         image_path: /images/portfolio/3.jpg
         type: Web Development
       - name: Project California
