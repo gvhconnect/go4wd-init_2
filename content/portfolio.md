@@ -9,9 +9,9 @@ content_blocks:
     preheading: Our works
     heading: We have done lots of works, lets check some
     projects:
-      - name: Project California
+      - name: US Cellular
         image_path: /images/portfolio/usCELL-concepts-019.jpg
-        type: Web Development
+        type: Instore Brand
       - name: Project California
         image_path: /images/portfolio/2.jpg
         type: Web Development
