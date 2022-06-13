@@ -10,7 +10,7 @@ content_blocks:
     heading: We have done lots of works, lets check some
     projects:
       - name: Project California
-        image_path: /images/portfolio/1.jpg
+        image_path: /images/portfolio/usCELL-concepts-019.jpg
         type: Web Development
       - name: Project California
         image_path: /images/portfolio/2.jpg
