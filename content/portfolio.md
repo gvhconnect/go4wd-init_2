@@ -25,7 +25,7 @@ content_blocks:
         image_path: /images/portfolio/EatonsCalgary-ext-hor.JPG
         type: Brand & Store Design
       - name: Sarah - AI Concierge
-        image_path: /images/portfolio/Sarah_AI_Mobile_Concierge.png
+        image_path: /uploads/sarah-ai-mobile-concierge---450-no-cap.png
         type: Product Development
 ---
 
