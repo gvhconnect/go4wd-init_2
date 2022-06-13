@@ -15,9 +15,9 @@ content_blocks:
       - name: Intelligent Merchandiser
         image_path: /uploads/i-m-patent-450.png
         type: US Patent
-      - name: Project California
-        image_path: /images/portfolio/4.jpg
-        type: Web Development
+      - name: Arrio Chair Launch
+        image_path: /images/portfolio/ArrioCDscreenshot---450.png
+        type: Marketing
       - name: Project California
         image_path: /images/portfolio/5.jpg
         type: Web Development
