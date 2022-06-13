@@ -13,7 +13,7 @@ content_blocks:
         image_path: /images/portfolio/usCELL-concepts-019.jpg
         type: Instore Brand
       - name: Intelligent Merchandiser
-        image_path: /images/portfolio/I-M-Patent-lge.tif
+        image_path: /uploads/i-m-patent-450.png
         type: US Patent
       - name: Project California
         image_path: /images/portfolio/4.jpg
