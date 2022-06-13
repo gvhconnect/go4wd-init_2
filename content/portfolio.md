@@ -22,7 +22,7 @@ content_blocks:
         image_path: /images/portfolio/PO-JOurnal-on-Tridel-COnstruction-Sites.png
         type: Productivity Leadership
       - name: 'Eatons Relaunch '
-        image_path: /images/portfolio/EatonsCalgary-ext-hor.JPG
+        image_path: /uploads/eatonscalgary-ext-hor---450.png
         type: Brand & Store Design
       - name: Sarah - AI Concierge
         image_path: /uploads/sarah-ai-mobile-concierge---450-no-cap.png
