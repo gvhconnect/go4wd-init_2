@@ -11,8 +11,6 @@ content_blocks:
     projects:
       - name: US Cellular
         image_path: /images/portfolio/usCELL-concepts-019.jpg
-        type: Instore Brand
-        image_path: /images/portfolio/3.jpg
         type: Web Development
       - name: Project California
         image_path: /images/portfolio/4.jpg
