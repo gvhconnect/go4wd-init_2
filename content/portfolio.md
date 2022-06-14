@@ -27,5 +27,8 @@ content_blocks:
       - name: Sarah - AI Concierge
         image_path: /uploads/sarah-ai-mobile-concierge---450-no-cap.png
         type: Product Development
+      - name: Alliance Cinema Opener
+        image_path: /uploads/film-alliance---450.png
+        type: Brand - Media
 ---
 
