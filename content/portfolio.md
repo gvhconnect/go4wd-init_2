@@ -33,5 +33,8 @@ content_blocks:
       - name: RCMP Musical Ride Museum
         image_path: /uploads/rcmp-03b.png
         type: Brand - Design
+      - name: Ontario  Lottery
+        image_path: /uploads/olgc---instore.png
+        type: Retail - Brand / Design
 ---
 
