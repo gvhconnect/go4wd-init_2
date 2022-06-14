@@ -6,8 +6,8 @@ hero:
   background_image: /uploads/pacific-blue-field.png
 content_blocks:
   - _bookshop_name: portfolio
-    preheading: Our works
-    heading: We have done lots of works, lets check some
+    preheading: Our work
+    heading: Work with great Clients: lets check some out...
     projects:
       - name: US Cellular
         image_path: /images/portfolio/usCELL-concepts-019.jpg
