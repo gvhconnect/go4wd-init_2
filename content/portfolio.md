@@ -42,5 +42,8 @@ content_blocks:
       - name: Pot Belly Builders
         image_path: /images/portfolio/gvh---PotBelly-Builder-house.png
         type: Design / Build - Salt Spring Island
+      - name: Tridel - Polo Club
+        image_path: /images/portfolio/Tridel---Polo-Club-1.png
+        type: Development Management
 ---
 
