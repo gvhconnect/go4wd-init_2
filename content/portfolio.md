@@ -28,7 +28,7 @@ content_blocks:
         image_path: /uploads/sarah-ai-mobile-concierge---450-no-cap.png
         type: Product Development
       - name: Alliance Cinema Opener
-        image_path: /uploads/film-alliance-rev1.png
+        image_path: /uploads/film-alliance-v3.png
         type: Brand - Media
 ---
 
