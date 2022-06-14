@@ -36,5 +36,8 @@ content_blocks:
       - name: Ontario  Lottery
         image_path: /uploads/olgc---instore.png
         type: Retail - Brand / Design
+      - name: Home Depot | OLGC
+        image_path: /uploads/olgc---instore.png
+        type: Brand / Design - Store in Store
 ---
 
