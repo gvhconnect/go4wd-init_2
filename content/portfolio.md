@@ -31,7 +31,7 @@ content_blocks:
         image_path: /uploads/film-alliance-v3.png
         type: Brand - Media
       - name: RCMP Musical Ride Museum
-        image_path: /uploads/film-alliance-v3.png
+        image_path: /uploads/rcmp-03b.png
         type: Brand - Design
 ---
 
