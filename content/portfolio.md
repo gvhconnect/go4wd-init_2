@@ -18,7 +18,7 @@ content_blocks:
       - name: Arrio Chair Launch
         image_path: /images/portfolio/ArrioCDscreenshot---450.png
         type: Marketing
-      - name: Tridel 1985 - PO Journals on Site
+      - name: Tridel  - PO Journals on Site
         image_path: /images/portfolio/PO-JOurnal-on-Tridel-COnstruction-Sites.png
         type: Productivity Leadership
       - name: 'Eatons Relaunch '
