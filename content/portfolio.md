@@ -49,7 +49,7 @@ content_blocks:
         image_path: /uploads/film-arrow-150th.png
         type: Brand - Marketing - Media
       - name: 1168 Hamilton St
-        image_path: /images/portfolio/1168-Hamilton-St+.png
+        image_path: /uploads/1168-hamilton-st-v2.png
         type: Real Estate Development
 ---
 
