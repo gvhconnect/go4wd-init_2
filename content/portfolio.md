@@ -30,5 +30,8 @@ content_blocks:
       - name: Alliance Cinema Opener
         image_path: /uploads/film-alliance-v3.png
         type: Brand - Media
+      - name: RCMP Musical Ride Museum
+        image_path: /uploads/film-alliance-v3.png
+        type: Brand - Design
 ---
 
