@@ -39,5 +39,8 @@ content_blocks:
       - name: Home Depot | OLGC
         image_path: /uploads/homedepot-olg.png
         type: Brand / Design - Store in Store
+      - name: Pot Belly Builders
+        image_path: /images/portfolio/gvh---PotBelly-Builder-house.png
+        type: Design / Build - Salt Spring Island
 ---
 
