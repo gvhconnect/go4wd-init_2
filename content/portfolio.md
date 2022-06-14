@@ -7,7 +7,7 @@ hero:
 content_blocks:
   - _bookshop_name: portfolio
     preheading: Our work
-    heading: Work with great Clients: lets check some out...
+    heading: Work with great Clients, lets check some out...
     projects:
       - name: US Cellular
         image_path: /images/portfolio/usCELL-concepts-019.jpg
