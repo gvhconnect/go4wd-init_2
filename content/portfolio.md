@@ -43,7 +43,7 @@ content_blocks:
         image_path: /images/portfolio/gvh---PotBelly-Builder-house.png
         type: Design / Build - Salt Spring Island
       - name: Tridel - Polo Club
-        image_path: /images/portfolio/Tridel---Polo-Club-1.png
+        image_path: /uploads/tridel---polo-club-1.png
         type: Development Management
       - name: Arrow 150th Anniversary
         image_path: /uploads/film-arrow-150th.png
