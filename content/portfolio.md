@@ -37,7 +37,7 @@ content_blocks:
         image_path: /uploads/olgc---instore.png
         type: Retail - Brand / Design
       - name: Home Depot | OLGC
-        image_path: /uploads/olgc---instore.png
+        image_path: /uploads/homedepot-olg.png
         type: Brand / Design - Store in Store
 ---
 
