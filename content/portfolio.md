@@ -58,7 +58,7 @@ content_blocks:
         image_path: /uploads/opt-garda-150px-h.png
         type: Global Sport Development
       - name: Shoppers Drug Mart
-        image_path: /uploads/sarah-ai-mobile-concierge---450-no-cap-1.png
+        image_path: /uploads/shoppersextmtpleasant-450.png
         type: Global Sport Development
 ---
 
