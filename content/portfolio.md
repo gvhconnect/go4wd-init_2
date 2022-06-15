@@ -40,7 +40,7 @@ content_blocks:
         image_path: /uploads/homedepot-olg.png
         type: Brand / Design - Store in Store
       - name: Pot Belly Builders
-        image_path: /uploads/gvh---potbelly-builder-house-v2.png
+        image_path: /uploads/gvh---potbelly-builder-house-v3.png
         type: Design / Build - Salt Spring Island
       - name: Tridel - Polo Club
         image_path: /uploads/tridel---polo-club-1.png
