@@ -19,7 +19,7 @@ content_blocks:
         image_path: /uploads/shoppersextmtpleasant-450.png
         type: 'Brand | Store Design 
       - name: Arrio Chair Launch
-        image_path: /images/portfolio/ArrioCDscreenshot-450.png
+        image_path: /images/portfolio/ArrioCDscreenshot--450.png
         type: Marketing
       - name: 'Eatons Relaunch '
         image_path: /uploads/eatonscalgary-ext-hor-450.png
