@@ -95,7 +95,7 @@ content_blocks:
           business opening up new horizons.
   - _bookshop_name: cta
     background_image: /images/bg/Construction+.png
-    preheading:
+    preheading: Act Now
     heading: We provide consulting, development & agency services
     content: Give us a call to explore how we can help you go4wd...
     phone: +1 289-748-7444
