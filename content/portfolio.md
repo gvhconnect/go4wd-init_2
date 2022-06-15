@@ -59,6 +59,6 @@ content_blocks:
         type: Condo Product Development
       - name: International Optimist Class
         image_path: /uploads/opt-garda-150px-h.png
-        type: Global Sport Development '
+        type: Global Sport Development 
 ---
 
