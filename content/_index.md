@@ -94,7 +94,7 @@ content_blocks:
           The Cloud is the transformational milestone of this generation of
           business opening up new horizons.
   - _bookshop_name: cta
-    background_image: /images/bg/home-3+.png
+    background_image: /images/bg/Construction+.png
     preheading:
     heading: We provide consulting, development & agency services
     content: Give us a call to explore how we can help you go4wd...
