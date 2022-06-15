@@ -54,5 +54,8 @@ content_blocks:
       - name: Tridel | AEG Appliances
         image_path: /uploads/tridel-euro-appliances-v5.png
         type: Condo Product Development
+      - name: International Optimist Class
+        image_path: /uploads/opt-garda-150px-h.png
+        type: Global Sport Development
 ---
 
