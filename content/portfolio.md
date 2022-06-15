@@ -57,8 +57,8 @@ content_blocks:
       - name: International Optimist Class
         image_path: /uploads/opt-garda-150px-h.png
         type: Global Sport Development
-      - name: Shoppers Drug Mart
+      - name: Shoppers Drug Mart - 2200 store Reinvention
         image_path: /uploads/shoppersextmtpleasant-450.png
-        type: Global Sport Development
+        type: 'Brand | Store Design '
 ---
 
