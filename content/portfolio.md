@@ -15,10 +15,10 @@ content_blocks:
       - name: Intelligent Merchandiser
         image_path: /uploads/i-m-patent-450.png
         type: US Patent
-       - name: Shoppers Drug Mart - 2200 store Reinvention
+      - name: Shoppers Drug Mart - 2200 store Reinvention
         image_path: /uploads/shoppersextmtpleasant-450.png
         type: 'Brand | Store Design 
-       - name: Arrio Chair Launch
+      - name: Arrio Chair Launch
         image_path: /images/portfolio/ArrioCDscreenshot---450.png
         type: Marketing
       - name: Tridel  - PO Journals on Site
@@ -59,7 +59,7 @@ content_blocks:
         type: Condo Product Development
       - name: International Optimist Class
         image_path: /uploads/opt-garda-150px-h.png
-        type: Global Sport Development '
+        type: Global Sport Development
   - _bookshop_name: portfolio
     preheading: Our experience
     heading: Work with great Clients, check it out...
