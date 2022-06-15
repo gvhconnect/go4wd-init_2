@@ -7,7 +7,7 @@ hero:
 content_blocks:
   - _bookshop_name: portfolio
     preheading: Our experience
-    heading: Work with great Clients, check it out...
+    heading: Work with great Clients, Partners, & Staff - check it out...
     projects:
       - name: US Cellular
         image_path: /images/portfolio/usCELL-concepts-019.jpg
@@ -19,7 +19,7 @@ content_blocks:
         image_path: /images/portfolio/ArrioCDscreenshot---450.png
         type: Marketing
       - name: Tridel  - PO Journals on Site
-        image_path: /uploads/tridel-po-journal-on-tridel-construction-sites-v2.png
+        image_path: /images/portfolio/PO-JOurnal-on-Tridel-COnstruction-Sites.png
         type: Productivity Leadership
       - name: 'Eatons Relaunch '
         image_path: /uploads/eatonscalgary-ext-hor---450.png
@@ -40,16 +40,13 @@ content_blocks:
         image_path: /uploads/homedepot-olg.png
         type: Brand / Design - Store in Store
       - name: Pot Belly Builders
-        image_path: /uploads/gvh---potbelly-builder-house-v3.png
+        image_path: /images/portfolio/gvh---PotBelly-Builder-house.png
         type: Design / Build - Salt Spring Island
       - name: Tridel - Polo Club
-        image_path: /uploads/tridel---polo-club-1.png
+        image_path: /images/portfolio/Tridel---Polo-Club-1.png
         type: Development Management
       - name: Arrow 150th Anniversary
         image_path: /uploads/film-arrow-150th.png
         type: Brand - Marketing - Media
-      - name: 1168 Hamilton St
-        image_path: /uploads/1168-hamilton-st-v2.png
-        type: Real Estate Development
 ---
 
