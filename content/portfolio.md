@@ -15,17 +15,14 @@ content_blocks:
       - name: Intelligent Merchandiser
         image_path: /uploads/i-m-patent-450.png
         type: US Patent
-      - name: Shoppers Drug Mart - 2200 store Reinvention
-        image_path: /uploads/shoppersextmtpleasant-450.png
-        type: 'Brand | Store Design 
       - name: Arrio Chair Launch
-        image_path: /images/portfolio/ArrioCDscreenshot--450.png
+        image_path: /images/portfolio/ArrioCDscreenshot---450.png
         type: Marketing
       - name: 'Eatons Relaunch '
-        image_path: /uploads/eatonscalgary-ext-hor-450.png
+        image_path: /uploads/eatonscalgary-ext-hor---450.png
         type: Brand & Store Design
       - name: Sarah - AI Concierge
-        image_path: /uploads/sarah-ai-mobile-concierge-450-no-cap.png
+        image_path: /uploads/sarah-ai-mobile-concierge---450-no-cap.png
         type: Product Development
       - name: Alliance Cinema Opener
         image_path: /uploads/film-alliance-v3.png
@@ -34,16 +31,16 @@ content_blocks:
         image_path: /uploads/rcmp-03b.png
         type: Brand - Design
       - name: Ontario  Lottery
-        image_path: /uploads/olgc-instore.png
+        image_path: /uploads/olgc---instore.png
         type: Retail - Brand / Design
       - name: Home Depot | OLGC
         image_path: /uploads/homedepot-olg.png
         type: Brand / Design - Store in Store
       - name: Pot Belly Builders
-        image_path: /uploads/gvh-potbelly-builder-house-v3.png
+        image_path: /uploads/gvh---potbelly-builder-house-v3.png
         type: Design / Build - Salt Spring Island
       - name: Tridel - Polo Club
-        image_path: /uploads/tridel-polo-club-1.png
+        image_path: /uploads/tridel---polo-club-1.png
         type: Development Management
       - name: Arrow 150th Anniversary
         image_path: /uploads/film-arrow-150th.png
@@ -56,6 +53,9 @@ content_blocks:
         type: Condo Product Development
       - name: International Optimist Class
         image_path: /uploads/opt-garda-150px-h.png
-        type: Global Sport Development 
+        type: Global Sport Development
+      - name: Shoppers Drug Mart - 2200 store Reinvention
+        image_path: /uploads/shoppers-store-beauty-shot.png
+        type: Brand | Store Design 
 ---
 
