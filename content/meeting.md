@@ -9,5 +9,5 @@ content_blocks:
     heading: Heading
     text: Something about this page...
     image_path: /images/bg/home-7.jpg
-      url: /contact/
+    url: /contact/
 ---
