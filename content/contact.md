@@ -18,7 +18,7 @@ content_blocks:
   - _bookshop_name: meetings
     preheading: Getting the MOst out of Meetings
     heading: agendT is your key to Team Productivity
-- _bookshop_name: map
+  - _bookshop_name: map
     latitude: 43.7031
     longitude: -79.51219
     name: go4wd.consulting
