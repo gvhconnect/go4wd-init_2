@@ -7,19 +7,6 @@ spec:
   icon: pending
   tags: []
 
-# Defines the structure of this component, as well as the default values
-blueprint:
-  background_image: /images/bg/aubergine_field.png
-  preheading: Getting the Most out of Meetings
-  heading: agendT: Leveraging Your Team's PRoductivity
-  content: ""
-  phone: ""
-
-# Overrides any fields in the blueprint when viewing this component in the component browser
-preview:
-  background_image: /images/bg/aubergine_field.png
-  preheading: Getting the Most out of Meetings
-  heading: agendT: Leveraging Your Team's PRoductivity
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs: {}
