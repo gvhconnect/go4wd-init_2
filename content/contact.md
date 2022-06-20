@@ -16,7 +16,9 @@ content_blocks:
     twitter:
     linkedin:
   - _bookshop_name: meetings
-    name: go4wd.consulting
+    preheading: Getting the MOst out of Meetings
+    heading: agendT - your key to Team Productivity
+    name: agendT
 - _bookshop_name: map
     latitude: 43.7031
     longitude: -79.51219
