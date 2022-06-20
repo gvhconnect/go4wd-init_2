@@ -7,8 +7,20 @@ spec:
   icon: pending
   tags: []
 
+# Defines the structure of this component, as well as the default values
+blueprint:
+  preheading: ""
+  heading: ""
+  sections:
+    - title: ""
+      icon: ""
+      content: ""
+
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
+  preheading: Meetings are key to Team Productivity
+  heading: Make the most of them with agendT
+
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs: {}
