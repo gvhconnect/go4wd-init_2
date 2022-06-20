@@ -22,45 +22,6 @@ content_blocks:
     latitude: 43.7031
     longitude: -79.51219
     name: go4wd.consulting
-  - _bookshop_name: hero
-    title: Hero page
-    hero:
-      title: Hero
-      background_image: /images/bg/home-2.jpg
-  - _bookshop_name: intro
-    preheading: Experienced and Seasoned Professionals
-    heading: >-
-      Experience and know how are required to create, deliver and sustain core
-      business advantage.
-    sections:
-      - title: Define Performance Metrics
-        icon: ti-desktop
-        content: >-
-          Change in business tends to be incremental, and typically progress
-          needs to be measured with respect to specific inputs and outputs.
-      - title: Develop Winning Solutions
-        icon: ti-medall
-        content: >-
-          Winning. strategies emerge, usually out of analysis, testing
-          hypotheses as to where to go next, and validating outcomes at scale.
-      - title: Deliver Sustained Success
-        icon: ti-layers
-        content: >-
-          Even when success has been achieved and measured, it's crucial to
-          understand the why's that give insights into what will drive sustained
-          results.
-  - _bookshop_name: hero
-    title: Hero page
-    hero:
-      title: Hero
-      background_image: /images/bg/home-2.jpg
-  - _bookshop_name: start_left
-    image_path: /images/bg/home-7.jpg
-    preheading: What we are
-    heading: We are dynamic team of creative people
-    text: >-
-      We provide consulting services in the area of IFRS and management
-      reporting, helping companies to reach their highest level. We optimize
-      business processes, making them easier.
+
 ---
 
