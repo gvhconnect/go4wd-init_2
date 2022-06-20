@@ -7,13 +7,6 @@ spec:
   icon: pending
   tags: []
 
-# Defines the structure of this component, as well as the default values
-blueprint:
-  title: "meetings"
-  hero:
-    title: "meetings"
-    background_image: "lime_gr_field.png"
-
 # Overrides any fields in the blueprint when viewing this component in the component browser
 preview:
 
