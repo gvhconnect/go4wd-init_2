@@ -8,5 +8,4 @@ content_blocks:
     preheading: agendT - enhancing Productivity
     heading: making meetings easy
     image_path: /aubergine_field.png
-    url: /meetings/
 ---
