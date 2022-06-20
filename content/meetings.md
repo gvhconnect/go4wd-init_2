@@ -1,5 +1,5 @@
 ---
-title: meeting
+title: meetings
 hero:
   title: Title
   background_image: /images/bg/home-2.jpg
