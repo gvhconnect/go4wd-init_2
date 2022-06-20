@@ -17,7 +17,7 @@ content_blocks:
     linkedin:
   - _bookshop_name: meetings
     preheading: Getting the MOst out of Meetings
-    heading: agendT - your key to Team Productivity
+    heading: agendT is your key to Team Productivity
     name: agendT
 - _bookshop_name: map
     latitude: 43.7031
