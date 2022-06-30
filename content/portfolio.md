@@ -9,18 +9,18 @@ content_blocks:
     preheading: Our experience
     heading: Work with great Clients, check it out...
     projects:
-      - name: US Cellular
-        image_path: /images/portfolio/usCELL-concepts-019.jpg
-        type: Instore Brand
+      - name: Shoppers Drug Mart - 2200 store Reinvention
+        image_path: /uploads/shoppers-store-beauty-shot.png
+        type: Brand | Store Design
       - name: Intelligent Merchandiser
         image_path: /uploads/i-m-patent-450.png
         type: US Patent
       - name: Arrio Chair Launch
         image_path: /images/portfolio/ArrioCDscreenshot---450.png
         type: Marketing
-      - name: 'Eatons Relaunch '
-        image_path: /uploads/eatonscalgary-ext-hor---450.png
-        type: Brand & Store Design
+      - name: US Cellular
+        image_path: /images/portfolio/usCELL-concepts-019.jpg
+        type: Instore Brand
       - name: Sarah - AI Concierge
         image_path: /uploads/sarah-ai-mobile-concierge---450-no-cap.png
         type: Product Development
@@ -36,6 +36,12 @@ content_blocks:
       - name: Home Depot | OLGC
         image_path: /uploads/homedepot-olg.png
         type: Brand / Design - Store in Store
+      - name: International Optimist Class
+        image_path: /images/portfolio/IODA-admin_dB_UI.png
+        type: Mobile dB / Management
+      - name: 'Eatons Relaunch '
+        image_path: /uploads/eatonscalgary-ext-hor---450.png
+        type: Brand & Store Design
       - name: Pot Belly Builders
         image_path: /uploads/gvh---potbelly-builder-house-v3.png
         type: Design / Build - Salt Spring Island
@@ -51,11 +57,5 @@ content_blocks:
       - name: Tridel | AEG Appliances
         image_path: /uploads/tridel-euro-appliances-v5.png
         type: Condo Product Development
-      - name: International Optimist Class
-        image_path: /images/portfolio/IODA-Admin-DB.png
-        type: Mobile dB / Management
-      - name: Shoppers Drug Mart - 2200 store Reinvention
-        image_path: /uploads/shoppers-store-beauty-shot.png
-        type: Brand | Store Design
 ---
 
