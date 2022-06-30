@@ -52,10 +52,10 @@ content_blocks:
         image_path: /uploads/tridel-euro-appliances-v5.png
         type: Condo Product Development
       - name: International Optimist Class
-        image_path: /uploads/opt-garda-150px-h.png
-        type: Global Sport Development
+        image_path: /images/portfolio/IODA-Admin-DB.png
+        type: Mobile dB / Management
       - name: Shoppers Drug Mart - 2200 store Reinvention
         image_path: /uploads/shoppers-store-beauty-shot.png
-        type: Brand | Store Design 
+        type: Brand | Store Design
 ---
 
