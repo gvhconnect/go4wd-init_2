@@ -5,10 +5,6 @@ hero:
   title: Title
   background_image: /images/bg/landing_page_v1b.png
 content_blocks:
-  - _bookshop_name: big-hero
-    preheading:
-    heading:
-    background_image: /uploads/landing-page-v7-iv.png
   - _bookshop_name: intro
     preheading: Experienced and Seasoned Professionals
     heading: >-
