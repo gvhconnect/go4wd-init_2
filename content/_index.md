@@ -12,8 +12,8 @@ content_blocks:
   - _bookshop_name: intro
     preheading: Experienced and Seasoned Professionals
     heading: >-
-      Experience and know how are required to create, deliver and sustain core
-      business advantage.
+      Experience and know how to create, deliver and sustain core business
+      advantage.
     sections:
       - title: Define Performance Metrics
         icon: ti-desktop
@@ -100,4 +100,3 @@ content_blocks:
     content: Give us a call to explore how we can help you go4wd...
     phone: +1 289-748-7444
 ---
-
