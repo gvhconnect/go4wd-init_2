@@ -6,9 +6,9 @@ hero:
   background_image: /images/bg/landing_page_v1b.png
 content_blocks:
   - _bookshop_name: big-hero
-    preheading: Living in Changing Times
-    heading: Better business results require more than good intentions...
-    background_image: /images/bg/Landing-Page_7(ii).png
+    preheading:
+    heading:
+    background_image: /images/bg/landing_page_v1b.png
   - _bookshop_name: intro
     preheading: Experienced and Seasoned Professionals
     heading: >-
