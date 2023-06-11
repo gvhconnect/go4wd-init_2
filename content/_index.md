@@ -3,7 +3,7 @@ _schema: default
 title: Home
 hero:
   title: Title
-  background_image: /images/bg/landing_page_v1b.png
+  background_image: /uploads/landing-page-v7-iv-1.png
 content_blocks:
   - _bookshop_name: intro
     preheading: Experienced and Seasoned Professionals
