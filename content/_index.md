@@ -2,7 +2,7 @@
 _schema: default
 title: Home
 hero:
-  title: Title
+  title: '                 '
   background_image: /uploads/landing-page-v7-iv-1.png
 content_blocks:
   - _bookshop_name: intro
@@ -95,4 +95,10 @@ content_blocks:
     heading: We provide consulting, development & agency services
     content: Give us a call to explore how we can help you go4wd...
     phone: +1 289-748-7444
+  - _bookshop_name: cta
+    background_image: ''
+    preheading: ''
+    heading: ''
+    content: ''
+    phone: ''
 ---
