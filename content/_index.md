@@ -2,8 +2,8 @@
 _schema: default
 title: Home
 hero:
-  title:
-  background_image: /images/bg/home-2+.png
+  title: Title
+  background_image: /images/bg/landing_page_v1b.png
 content_blocks:
   - _bookshop_name: big-hero
     preheading: Living in Changing Times
