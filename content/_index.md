@@ -2,7 +2,7 @@
 _schema: default
 title: Home
 hero:
-  title: Better business results require more than good intentions...
+  title:
   background_image: /images/bg/home-2+.png
 content_blocks:
   - _bookshop_name: big-hero
