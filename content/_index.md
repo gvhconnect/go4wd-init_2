@@ -2,7 +2,7 @@
 _schema: default
 title: Home
 hero:
-  title:
+  title: '   '
   background_image: /uploads/landing-page-v7-iv-1.png
 content_blocks:
   - _bookshop_name: intro
